@@ -191,7 +191,7 @@ export default function ProfessionalProfile() {
                 <li>Associate Editor for Molecular Diversity (December 2024-till date), a springer journal, impact factor 3.8</li>
 
               <li>
-                . Member of the Editorial Board for Molecular Diversity (March 2021-December 2024), a springer journal, impact factor 3.8
+                Member of the Editorial Board for Molecular Diversity (March 2021-December 2024), a springer journal, impact factor 3.8
               </li>
             </ul>
           </CardContent>
@@ -418,7 +418,7 @@ in International Conference on “Pharmacognosy, Phytochemistry and Natural Prod
           <CardHeader className="">
             <CardTitle className="text-2xl flex items-center gap-2">
               <Briefcase className="h-6 w-6" />
-             MEMBERSHIPS / ORGANIZATION ASSOCIATED 
+             MEMBERSHIPS / ORGANIZATIONS ASSOCIATED 
             </CardTitle>
           </CardHeader>
           <CardContent className="pt-6">
@@ -461,7 +461,7 @@ in International Conference on “Pharmacognosy, Phytochemistry and Natural Prod
           <CardHeader className="">
             <CardTitle className="text-2xl flex items-center gap-2">
               <Award className="h-6 w-6" />
-              TECHNOLOGY TRANSFERED:
+              TECHNOLOGY TRANSFERRED:
             </CardTitle>
           </CardHeader>
           <CardContent className="pt-6">

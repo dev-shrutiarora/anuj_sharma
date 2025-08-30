@@ -28,7 +28,7 @@ const profiles: Profile[] = [
     role: '',
     department: 'Department of Chemistry',
     bio: 'Leading researcher in Chemistry with 20+ years of experience',
-    image: '/people/p4.jpg?height=400&width=300',
+    image: '/people/p1.jpg?height=400&width=300',
     email: 'anuj.sharma@cy.iitr.ac.in',
     website: 'https://example.edu/sjohnson',
     category: 'instructor',
@@ -39,141 +39,141 @@ const profiles: Profile[] = [
     role: 'Post-Doc',
     department: '2015-2018',
     bio: '',
-    image: '/people/p5.jpg?height=400&width=300',
+    image: '/people/p2.jpg?height=400&width=300',
     category: 'alumni',
   },
   
 
   {
-    id: '5',
+    id: '3',
     name: 'Jaya Tripathi',
     role: 'CSIR-SRF',
     department: '2018 - Present',
     bio: 'Working on "Photocatalytic manipulations in the design of novel synthetic molecules"',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/p3.jpg?height=400&width=300',
     email: 'jtripathi@cy.iitr.ac.in',
     category: 'scholar',
   },
   {
-    id: '6',
+    id: '4',
     name: 'Roshan I. Patel',
     role: 'UGC-SRF',
     department: '2019 - Present',
     bio: 'working on "Efficient methods for C-H/X functionalization using contemporary methods"',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/p4.jpg?height=400&width=300',
     email: 'roshan@cy.iitr.ac.in',
     category: 'scholar',
   },
 {
-    id: '7',
+    id: '5',
     name: 'Ajay Kumar Dhiya',
     role: 'MHRD',
     department: '2019 - Present',
     bio: 'working on "Green and Sustainable methodologies for synthesis and functionalization of biologically potent heterocyclic scaffolds"',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/p5.jpg?height=400&width=300',
     email: 'akumardhiya@cy.iitr.ac.in',
     category: 'scholar',
   },
 
   {
-    id: '8',
+    id: '6',
     name: 'Raman Kumar',
     role: 'UGC-SRF',
     department: '2019 - Present',
     bio: 'working on "Sustainable approaches in C-S bond formation "',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/p6.jpg?height=400&width=300',
     email: 'ramansingh79545@gmail.com',
     category: 'scholar',
   },
   {
-    id: '9',
+    id: '7',
     name: 'Himanshu Chauhan',
     role: 'PMRF',
     department: '2022 - Present',
     bio: 'working on "Synthesis of transient radical using Mechanochemistry and Photoredox catalysis "',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/p7.jpg?height=400&width=300',
     email: 'himanshu_c@cy.iitr.ac.in',
     category: 'scholar',
   },
   {
-    id: '10',
+    id: '8',
     name: 'Anjali Garg',
     role: 'Golden Girl (Ph.D)',
     department: '2023 - Present',
     bio: 'working on "Novel C-C bond formation using visible-light and balling"',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/p8.jpg?height=400&width=300',
     email: 'anjali_g@cy.iitr.ac.in',
     category: 'scholar',
   },
   {
-    id: '11',
+    id: '9',
     name: 'Shashwat Subhankar Khuntia',
     role: 'MHRD',
     department: '2024 - Present',
     bio: 'working on "Photoredox chemistry and Mechanochemistry"',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/p9.jpg?height=400&width=300',
     email: 'shshwat_sk@cy.iitr.ac.in',
     category: 'scholar',
   },
   {
-    id: '12',
+    id: '10',
     name: 'Akshay Prasad',
     role: 'CSIR-JRF',
     department: '2024 - Present',
     bio: 'working on "Photoredox and  Mechanochemistry "',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/p10.jpg?height=400&width=300',
     email: 'akshay_p@cy.iitr.ac.in',
     category: 'scholar',
   },
   {
-    id: '13',
+    id: '11',
     name: 'Kajal',
     role: 'MHRD',
     department: '2024 - Present',
     bio: 'working on "Visible-light and mechanochemical assisted C-C/C-X bond formation strategies"',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/p11.jpg?height=400&width=300',
     email: 'kajal@cy.iitr.ac.in',
     category: 'scholar',
   },
   {
-    id: '14',
+    id: '12',
     name: 'Omkar Patil',
     role: 'MHRD',
     department: '2025 - Present',
     bio: 'working on "Organic synthesis of biologically active molecules using visible-light Photoredox and Mechanochemistry"',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     email: 'Omkar_pp@cy.iitr.ac.in',
     category: 'scholar',
   },
   {
-    id: '15',
+    id: '13',
     name: 'Harshita Gupta',
     role: 'Part-Time',
     department: '2021 - Present',
     bio: 'working on "Development of C-C and C-X bond functionalization using visible light Photoredox catalysis"',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     email: 'harshita_g@cy.iitr.ac.in',
     category: 'scholar',
   },
   
 {
-    id: '3',
+    id: '14',
     name: 'Amar P. Pandey',
     role: 'Part-Time',
     department: '..... - Present',
     bio: 'working on "................."',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     email: 'harshita_g@cy.iitr.ac.in',
     category: 'scholar',
   },
 
   {
-    id: '4',
+    id: '15',
     name: 'Sehdev Kumar',
     role: 'Part-Time',
     department: '..... - Present',
     bio: 'working on "................."',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     email: 'harshita_g@cy.iitr.ac.in',
     category: 'scholar',
   },
@@ -183,7 +183,7 @@ const profiles: Profile[] = [
     role: 'currently a post-Doc in Canada',
     department:'Viva Voice held on 04.09.2015',
     bio: 'Thesis title : Design and synthesis of prospective antimalarials by [4+1] multicomponent reaction ',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni',
   },
   {
@@ -192,7 +192,7 @@ const profiles: Profile[] = [
     role: 'Currently a post-Doc in the University of Arkansas, USA',
     department: 'Viva Voice held on 09.06.2017',
     bio: 'Thesis title : Synthesis of Privileged dibenzothiazepine and dibenzooxazepine scaffolds through contemporary methods. ',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni',
   },
 {
@@ -201,7 +201,7 @@ const profiles: Profile[] = [
     role: 'Currently a D S Kothari Post Doc in BHU',
     department: 'Viva Voice held on 09.06.2017',
     bio: 'Thesis title: Synthesis of N, S-heterocycles via multicomponent approach.',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni',
   },
 {
@@ -210,7 +210,7 @@ const profiles: Profile[] = [
     role: 'Currently a D S Kothari Post Doc in BHU',
     department: 'Viva Voice held on 22.08.2017',
     bio: 'Thesis title: Synthesis of N, S-heterocycles via multicomponent approach.',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
   
@@ -220,7 +220,7 @@ const profiles: Profile[] = [
     role: 'Assistant Professor in a Government College',
     department: 'Viva Voice held on 30.01.2018',
     bio: 'Thesis title: Design, synthesis and characterization of coumarin derivatives as chemosensors ',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 
@@ -230,7 +230,7 @@ const profiles: Profile[] = [
     role: '',
     department: 'Viva Voice held on 13.09.2019',
     bio: 'Thesis title: Solvent free multicomponent reactions for the synthesis of heterocyclic scaffolds',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 
@@ -240,7 +240,7 @@ const profiles: Profile[] = [
     role: 'Post-Doc',
     department: '2015-2018',
     bio: '',
-    image: '/people/p5.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni',
   },
 
@@ -250,7 +250,7 @@ const profiles: Profile[] = [
     role: '',
     department: 'Viva Voice held on 12.09.2019',
     bio: 'Thesis title: Synthesis of potent organic assemblies through multicomponent reactions',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 
@@ -260,7 +260,7 @@ const profiles: Profile[] = [
     role: 'Post-Doc',
     department: '2016-2017',
     bio: '',
-    image: '/people/p5.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni',
   },
 {
@@ -269,7 +269,7 @@ const profiles: Profile[] = [
     role: '',
     department: 'Viva Voice held on 23.07.2020',
     bio: 'Thesis title: Functionalization of Csp2 bonds using transition metal free strategies',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 
@@ -279,7 +279,7 @@ const profiles: Profile[] = [
     role: 'Post-Doc',
     department: '2017-2018',
     bio: '',
-    image: '/people/p5.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni',
   },
 
@@ -289,7 +289,7 @@ const profiles: Profile[] = [
     role: 'Post-Doc',
     department: '2019-2021',
     bio: '',
-    image: '/people/p5.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni',
   },
 
@@ -299,7 +299,7 @@ const profiles: Profile[] = [
     role: 'Post-Doc',
     department: '2023-2024',
     bio: '',
-    image: '/people/p5.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni',
   },
 {
@@ -308,7 +308,7 @@ const profiles: Profile[] = [
     role: '',
     department: 'Viva Voice held on 07.03.2025',
     bio: 'Thesis title: Visible light induced electron donor acceptor based alkylation (Csp2-Csp3) and arylation (Csp2-Csp2) reactions',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 
@@ -318,7 +318,7 @@ const profiles: Profile[] = [
     role: '',
     department: 'Viva Voice held on 18.03.2025',
     bio: 'Thesis title: Decarboxylative strategies to forge C-C and C-X (X = N, S) bonds using ball milling and visible light',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 
@@ -328,7 +328,7 @@ const profiles: Profile[] = [
     role: '',
     department: 'M.Tech, 2012',
     bio: 'Thesis title: In-silico docking studies of bioactive natural products as putative Pf-DHFR antagonists',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 
@@ -338,7 +338,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Tech, 2013',
     bio: 'Thesis title: In-silico studies of imidazo-azines as potent NTD inhibitor by multi-target screening approach',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 
@@ -348,7 +348,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Tech, 2014',
     bio: 'Thesis title: Analysis of therapeutical potential of novel xanthones and allied structures through rational drug design',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 {
@@ -357,7 +357,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Tech, 2015',
     bio: 'Thesis title: Design and novel synthesis of imidazoazines as putative drug candidates',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 {
@@ -366,7 +366,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Tech, 2016',
     bio: 'Thesis title: Design and Synthesis of Novel Scaffolds of Pharmaceutical Importance',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 {
@@ -375,7 +375,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Tech, 2020',
     bio: 'Thesis title: Environmentally benign approach to quinoxaline-2(1H)-ones via click mechanochemical- (Hand Grinding) under solvent- and catalyst-free conditions',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 {
@@ -384,7 +384,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Sc., 2012, ',
     bio: 'Thesis title: In-silico docking studies of 4-acetamidocyclohex-1-enecarboxylic acids as H1N1 Neuraminidase inhibitors',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 {
@@ -393,7 +393,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Sc., 2013 ',
     bio: 'Thesis title: In-silico studies of xanthones as putative Pf-DHFR inhibitors',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 {
@@ -402,7 +402,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Sc., 2014 ',
     bio: 'Thesis title: Ecofriendly and benign synthesis of formamides and their medicinal relevance',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 {
@@ -411,7 +411,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Sc., 2014 ',
     bio: 'Thesis title: Rational Design and Synthesis of Putative heterocyclic Scaffolds of Therapeutic Potential.',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 {
@@ -420,7 +420,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Sc., 2016',
     bio: 'Thesis title: In-silico docking studies of the derivatives of dibenzothiazepine/dibenzoxazepine on warfarin binding site of boven Serum Albumin.',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 {
@@ -429,7 +429,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Sc., 2017 ',
     bio: 'Thesis title: Design and synthesis of novel imidazothiazole analogues through green methodologies',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 {
@@ -438,7 +438,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Sc., 2018',
     bio: 'Thesis title: Synthesis and characterization of 3-phenacylidene-2-oxindole scaffolds',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 {
@@ -447,7 +447,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Sc., 2019',
     bio: 'Thesis title: Microwave assisted DABCO catalyzed solvent free synthesis of 2,6-disustituted imidazo [2,1-b][1,3,4]thiadiazole',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 {
@@ -456,7 +456,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Sc., 2019',
     bio: 'Thesis title: Synthesis and applications of aryl mesityliodonium triflates  ',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 {
@@ -465,7 +465,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Sc., 2020',
     bio: 'Thesis title: Mechanochemical approach for the synthesis of 2-phenylquinoxalines',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 {
@@ -474,7 +474,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Sc., 2020',
     bio: 'Thesis title: A visible light photocatalytic synthesis of pyridyl-benzamides',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 {
@@ -483,7 +483,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Sc., 2020',
     bio: 'Thesis title: Synthesis of Katritzky salts from pyrylium cation used as alkyl radical precursors',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 
@@ -494,7 +494,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Sc., 2021 ',
     bio: 'Thesis title: Mechanochemical Synthesis of 2-Phenylimidazo[1,2-a]pyridine and its Derivative',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 {
@@ -503,7 +503,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Sc., 2021',
     bio: 'Thesis title: Mechanochemical Solvent-Free Approach for the Synthesis of 3-Iodo Substituted Imidazopyridine',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 {
@@ -512,7 +512,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Sc., 2022',
     bio: 'Thesis title: Synthesis of aryl alpha ketoacid by oxidation of aryl ketones',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 {
@@ -521,7 +521,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Sc., 2022 ',
     bio: 'Thesis title: Sustainable approach for the synthesis of 2(1H)-Quinolinone and its derivatives via ball milling',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 {
@@ -530,7 +530,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Sc., 2022',
     bio: 'Thesis title: Mechano-chemical approach for the synthesis of 2h benzo[b][1,4,]orazin-2-one',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 
@@ -540,7 +540,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Sc., 2023',
     bio: 'Thesis title: Decarboxylative functionalization of cinnamic acid under visible light',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 
@@ -551,7 +551,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Sc., 2023',
     bio: 'Thesis title: Synthesis of Sulfonamides from Thiosulfonates under Mild Conditions',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 
@@ -561,7 +561,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Sc., 2024',
     bio: 'Thesis title: Persulfate-assisted synthesis of 2-aryl benzothiazoles under ball milling',
-    image: '/people/p1.jpg?height=400&width=300',
+    image: '/people/av.png?height=400&width=300',
     category: 'alumni'
 },
 

@@ -23,7 +23,7 @@ const page = () => {
               <CheckIcon className="mr-2 inline-block h-4 w-4" /> Synthetic Organic Chemistry
             </div>
             <div className="text-muted-foreground">
-              <CheckIcon className="mr-2 inline-block h-4 w-4" /> Photocatalysis and Visible Light-Induced Reactions
+              <CheckIcon className="mr-2 inline-block h-4 w-4" /> Photoredox Chemistry
             </div>
             <div className="text-muted-foreground">
               <CheckIcon className="mr-2 inline-block h-4 w-4" /> Mechanochemistry
@@ -32,7 +32,7 @@ const page = () => {
               <CheckIcon className="mr-2 inline-block h-4 w-4" /> Green and sustainable Chemistry
             </div>
             <div className="text-muted-foreground">
-              <CheckIcon className="mr-2 inline-block h-4 w-4" /> Photochemistry
+              <CheckIcon className="mr-2 inline-block h-4 w-4" /> Electrophotoredox (under development)
             </div>
             <div className="text-muted-foreground">
               <CheckIcon className="mr-2 inline-block h-4 w-4" /> Electron Donor-Acceptor (EDA) complxes in Synthetic Transformation

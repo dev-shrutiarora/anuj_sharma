@@ -17,53 +17,50 @@ export default function HomePage() {
   const newsUpdates = [
     {
       id: 1,
-      title: 'New Product Launch Success',
+      title: 'Congratulations Jaya for thegrant of an Indian Patent',
       content:
-        "We're excited to announce that our latest product has exceeded all expectations with over 10,000 pre-orders in the first week!",
-      lastUpdate: '2024-01-15',
+        "This patent filed for a mild, sustainable, light assisted method for Fischer like estrification.",
+      lastUpdate: '2025-08-28',
     },
-    {
+ {
       id: 2,
-      title: 'Team Expansion Update',
+      title: 'Positions are available in our group',
       content:
-        "Happy to share that we're growing our engineering team by 50% this quarter. Looking forward to building amazing things together!",
-      lastUpdate: '2024-01-10',
+        'Please contact Prof Anuj sharma for this. Applications from highly motivated students to join the group for Ph.D. and Post Doc in the topics of our research interests are welcome.',
+      lastUpdate: '2025-08-23',
     },
+
     {
       id: 3,
-      title: 'Partnership Announcement',
+      title: 'Congratulations Barakha for successfully defending your PhD Work',
       content:
-        'Thrilled to announce our strategic partnership with TechCorp. This collaboration will bring innovative solutions to our customers.',
-      lastUpdate: '2024-01-05',
+        "Barakha successfully defended PhD work on topic 'Harnessing Light and Mechanochemistry for Green and Sustainable Sulfonylation Reactions' ",
+      lastUpdate: '2025-08-04',
     },
     {
       id: 4,
-      title: 'Research Breakthrough',
+      title: 'And Here comes another one for our lab. Congratulations Ajay!!!',
       content:
-        'Our research team has made significant progress in sustainable energy solutions. New findings will be published next month.',
-      lastUpdate: '2024-01-01',
+        'Published in J. Org. Chem., "Deoxygenetive Route to Alkynylation of Heterocyclic N-Oxides under Ball Milling"',
+      lastUpdate: '2025-07-25',
     },
+
     {
       id: 5,
-      title: 'Conference Presentation',
+      title: 'Our perspective on the use of the thianthrenium salts under light mediated protocols...',
       content:
-        'Prof. Sharma will present our latest research findings at the International Chemistry Conference in Berlin next month.',
-      lastUpdate: '2023-12-28',
+        'Published in J. Org. Chem.,"Photoactivation of Thianthrenium salts: An Electron-Donor-Acceptor(EDA)- Complex Approach."',
+      lastUpdate: '2025-05-14',
     },
     {
       id: 6,
-      title: 'Publication Milestone',
+      title: 'Prof Anuj appointed as an associate editer of Molecular Diversity',
       content:
-        'Our team has reached a milestone of 100+ publications in peer-reviewed journals. Thank you to all contributors!',
-      lastUpdate: '2023-12-20',
+        'Prof Anuj Sharma appointed as an associate editer of Molecular Diversity (Spring Nature) from January 2025.',
+      lastUpdate: '2025-28-01',
     },
-    {
-      id: 7,
-      title: 'Student Achievement',
-      content:
-        'Congratulations to our PhD students who successfully defended their theses this semester. Great work!',
-      lastUpdate: '2023-12-15',
-    },
+  
+   
   ];
 
   const scrollLeft = () => {

@@ -8,8 +8,7 @@ import {
   CardHeader,
   CardTitle,
 } from '@/components/ui/card';
-import { Badge } from '@/components/ui/badge';
-import { ChevronLeft, ChevronRight, Newspaper } from 'lucide-react';
+import { Award, ChevronLeft, ChevronRight, Newspaper } from 'lucide-react';
 import { useRef, useEffect } from 'react';
 
 export default function HomePage() {
@@ -102,14 +101,17 @@ export default function HomePage() {
       {/* Hero Section */}
 
       {/* News Section */}
-      <section className="py-16 px-4"> 
+      <section className="py-16 px-4">
         <div className=" ">
           <div className="flex items-center justify-between mb-12">
             <div>
-              <Newspaper />
-              <h2 className="text-3xl font-bold text-foreground mb-2">
-                Latest Updates
-              </h2>
+              <div className="flex items-center gap-2">
+                <Newspaper className="h-6 w-6 text-primary" />
+                <h2 className="text-3xl font-bold tracking-tight">
+                  Latest Updates
+                </h2>
+              </div>
+
               <p className="text-muted-foreground">
                 Stay informed with the most recent news and announcements
               </p>

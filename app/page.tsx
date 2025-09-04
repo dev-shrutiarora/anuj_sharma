@@ -13,13 +13,9 @@ export default function ProfessorPage() {
       <HeroSection />
       <HomePage />
       <AwardsSetion />
-
       <Journal />
-
       <PhdSection />
-
       <AcademicRoles />
-
       <BookSection />
     </main>
   );

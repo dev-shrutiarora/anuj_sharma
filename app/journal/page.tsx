@@ -41,7 +41,7 @@ A Dhiya, M. Kaur, Manpreet and A. Sharma*, J. Org. Chem., 2025, 90, 11033−1104
 
         <li className="pl-2">
           <p className="text-sm sm:text-base">
-             Roshan Patel, Barakha Saxena, and  Anuj Sharma*, "Photoactivation of Thianthrenium Salts: An Electron-Donor-Acceptor (EDA)-Complex Approach"
+             Roshan Patel, Barakha Saxena, and  Anuj Sharma*, &quot;Photoactivation of Thianthrenium Salts: An Electron-Donor-Acceptor (EDA)-Complex Approach&quot;
              J. Org. Chem. 2025, Just accepted.
             
             
@@ -60,7 +60,7 @@ A Dhiya, M. Kaur, Manpreet and A. Sharma*, J. Org. Chem., 2025, 90, 11033−1104
           <p className="text-sm sm:text-base">
             
         
-            Sehdev kumar, Annop Sharma, Raman Kumar, and Anuj Sharma*, "Visible light-induced energy transfer mediated regioselective C-3 thiolation of imidazoheterocycles using Bunte salts"
+            Sehdev kumar, Annop Sharma, Raman Kumar, and Anuj Sharma*, &quot;Visible light-induced energy transfer mediated regioselective C-3 thiolation of imidazoheterocycles using Bunte salts&quot;
             Chem. Asian J. 2025, e202401875.
             
             <a
@@ -76,7 +76,7 @@ A Dhiya, M. Kaur, Manpreet and A. Sharma*, J. Org. Chem., 2025, 90, 11033−1104
 
         <li className="pl-2">
           <p className="text-sm sm:text-base">
-            Jaya Tripathi, Harshita Gupta, and Anuj Sharma*, "Photoacid-Catalyzed Esterification of Carboxylatic Acid Using Eosin-Y "
+            Jaya Tripathi, Harshita Gupta, and Anuj Sharma*, &quot;Photoacid-Catalyzed Esterification of Carboxylatic Acid Using Eosin-Y &quot;
              Org. Lett.  2025, 27, 4, 1018-1023.
 
             <a
@@ -92,7 +92,7 @@ A Dhiya, M. Kaur, Manpreet and A. Sharma*, J. Org. Chem., 2025, 90, 11033−1104
 
         <li className="pl-2">
           <p className="text-sm sm:text-base">
-             A.P. Pandey, A. Sharma, N. Singh, R. Kumar, and A. Sharma, "Mechanochemically Triggered Deaminative Alkylation of Heterocycles Using Katritzky’s Salts", J. Org. Chem. 2025, 90, 24, 8034–8042.
+             A.P. Pandey, A. Sharma, N. Singh, R. Kumar, and A. Sharma, &quot;Mechanochemically Triggered Deaminative Alkylation of Heterocycles Using Katritzky’s Salts&quot;, J. Org. Chem. 2025, 90, 24, 8034–8042.
 
             <a
               href="https://doi.org/10.1021/acs.joc.5c00023"
@@ -107,7 +107,7 @@ A Dhiya, M. Kaur, Manpreet and A. Sharma*, J. Org. Chem., 2025, 90, 11033−1104
 
         <li className="pl-2">
           <p className="text-sm sm:text-base">
-            Barakha Saxena, Roshan I. Patel, and Anuj Sharma*, ''Visible light driven a-sulfonylation of ketone-driven silyl enol ether via electron-donor-acceptor complex", Green Chem. 2024, 26, 11650-11661.
+            Barakha Saxena, Roshan I. Patel, and Anuj Sharma*, &quot;Visible light driven a-sulfonylation of ketone-driven silyl enol ether via electron-donor-acceptor complex&quot;, Green Chem. 2024, 26, 11650-11661.
             <a
               href="https://doi.org/10.1039/D4GC04554H"
               className="block text-blue-600 hover:underline mt-1"
@@ -123,7 +123,7 @@ A Dhiya, M. Kaur, Manpreet and A. Sharma*, J. Org. Chem., 2025, 90, 11033−1104
 
         <li className="pl-2">
           <p className="text-sm sm:text-base">
-            Roshan I. Patel, Barakha Saxena, and Anuj Sharma*, ''General electron-donor-acceptor complex mediated thioesterification reaction via site-selective C-H functionalization using aryl sulfonium salts", Green Chem., 2024, 26, 10265-10274.
+            Roshan I. Patel, Barakha Saxena, and Anuj Sharma*, &quot;General electron-donor-acceptor complex mediated thioesterification reaction via site-selective C-H functionalization using aryl sulfonium salts&quot;, Green Chem., 2024, 26, 10265-10274.
             
             <a
               href="https://doi.org/10.1039/D4GC03768E"
@@ -139,7 +139,7 @@ A Dhiya, M. Kaur, Manpreet and A. Sharma*, J. Org. Chem., 2025, 90, 11033−1104
         </li>
         <li className="pl-2">
           <p className="text-sm sm:text-base">
-          Raman Kumar, Anoop Sharma and Anuj Sharma*, "Mechanochemically induced Thianthrenium Salts-Based Arylation of Diverse Heterocyclic Scaffolds", ASC Sustainable Chem. Eng., 2024, 12, 34, 12808-12818.
+          Raman Kumar, Anoop Sharma and Anuj Sharma*, &quot;Mechanochemically induced Thianthrenium Salts-Based Arylation of Diverse Heterocyclic Scaffolds&quot;, ASC Sustainable Chem. Eng., 2024, 12, 34, 12808-12818.
           
             <a
               href="https://doi.org/10.1021/acssuschemeng.4c03163"
@@ -154,7 +154,7 @@ A Dhiya, M. Kaur, Manpreet and A. Sharma*, J. Org. Chem., 2025, 90, 11033−1104
         </li>
         <li className="pl-2">
           <p className="text-sm sm:text-base">
-            Barakha Saxena, Roshan I. Patel and Anuj Sharma*, "Visible Light-Induced Bromine Radical Enhanced Hydrogen Atom Transfer (HAT) Reactions in Organic Synthesis", RSC Sustain., 2024, 2, 2169-2189.
+            Barakha Saxena, Roshan I. Patel and Anuj Sharma*, &quot;Visible Light-Induced Bromine Radical Enhanced Hydrogen Atom Transfer (HAT) Reactions in Organic Synthesis&quot;, RSC Sustain., 2024, 2, 2169-2189.
           <a
               href="https://doi.org/10.1039/D4SU00214H"
               className="block text-blue-600 hover:underline mt-1"
@@ -168,7 +168,7 @@ A Dhiya, M. Kaur, Manpreet and A. Sharma*, J. Org. Chem., 2025, 90, 11033−1104
         </li>
         <li className="pl-2">
           <p className="text-sm sm:text-base">
-             Jitender Singh, Barakha Saxena and Anuj Sharma*, "Visible Light Promoted Synthesis of Allenes, Catal. Sci. Technol, 2024, 14, 5143-5160.
+             Jitender Singh, Barakha Saxena and Anuj Sharma*, &quot;Visible Light Promoted Synthesis of Allenes, Catal. Sci. Technol, 2024, 14, 5143-5160.&quot;
             <a
               href="https://doi.org/10.1039/D4CY00361F"
               className="block text-blue-600 hover:underline mt-1"
@@ -182,7 +182,7 @@ A Dhiya, M. Kaur, Manpreet and A. Sharma*, J. Org. Chem., 2025, 90, 11033−1104
         </li>
         <li className="pl-2">
           <p className="text-sm sm:text-base">
-            Barakha Saxena, Roshan I. Patel, and Anuj Sharma*, ''Mechnochemical-assisted decarboxylative sulfonylation of a,b-unsaturated carboxylic acids with sodium sulfinate salts"
+            Barakha Saxena, Roshan I. Patel, and Anuj Sharma*, &quot;Mechnochemical-assisted decarboxylative sulfonylation of a,b-unsaturated carboxylic acids with sodium sulfinate salts&quot;
              Green Chem. 2024, 26, 2721-2729.
            <a
               href="https://doi.org/10.1039/d3gc04954j"
@@ -197,7 +197,7 @@ A Dhiya, M. Kaur, Manpreet and A. Sharma*, J. Org. Chem., 2025, 90, 11033−1104
         </li>
         <li className="pl-2">
           <p className="text-sm sm:text-base">
-            Nihal Singh, A. Sharma, J. Singh, A. P. Pandey and Anuj Sharma*, "Visible light-induced electron-donor-acceptor-mediated C-3 coupling of quinoxalin-2(1H)-ones with unactivated aryl iodides", Org. Lett., 2024, 26, 6471-6476.
+            Nihal Singh, A. Sharma, J. Singh, A. P. Pandey and Anuj Sharma*, &quot;Visible light-induced electron-donor-acceptor-mediated C-3 coupling of quinoxalin-2(1H)-ones with unactivated aryl iodides&quot;, Org. Lett., 2024, 26, 6471-6476.
             
             <a
               href="https://doi.org/10.1021/acs.orglett.3c03365"
@@ -211,7 +211,7 @@ A Dhiya, M. Kaur, Manpreet and A. Sharma*, J. Org. Chem., 2025, 90, 11033−1104
         </li>
         <li className="pl-2">
           <p className="text-sm sm:text-base">
-           Anoop Sharma, Jitender Singh, and Anuj Sharma*, "Synthesis of quinazolinones and benzothiazoles using a-keto Acids under ball milling", J. Org. Chem.,  2024, 89, 8, 5229-5238.
+           Anoop Sharma, Jitender Singh, and Anuj Sharma*, &quot;Synthesis of quinazolinones and benzothiazoles using a-keto Acids under ball milling&quot;, J. Org. Chem.,  2024, 89, 8, 5229-5238.
 
            <a
               href="https://doi.org/10.1021/acs.joc.3c02435"
@@ -225,12 +225,12 @@ A Dhiya, M. Kaur, Manpreet and A. Sharma*, J. Org. Chem., 2025, 90, 11033−1104
         </li>
         <li className="pl-2">
           <p className="text-sm sm:text-base">
-            Anoop Sharma, Ningh Singh, Raman Kumar and Anuj Sharma*, "Visible light-enable decarboxylative alkylation of quinoxalin-2(1H)-ones using alkyl carboxylic acids via energy transfer process", Adv. Synth. Catal., 2024, 366, 2735.
+            Anoop Sharma, Ningh Singh, Raman Kumar and Anuj Sharma*, &quot;Visible light-enable decarboxylative alkylation of quinoxalin-2(1H)-ones using alkyl carboxylic acids via energy transfer process&quot;, Adv. Synth. Catal., 2024, 366, 2735.
           </p>
         </li>
         <li className="pl-2">
           <p className="text-sm sm:text-base">
-            Jitendra Singh, Ningh Singh, and Anuj Sharma*, "Visible light Induced Photocatalyst-Free C_X (X= B, C, O, P, S, Se) Bond Formation of Aryl Halides", Adv. Synth. Catal., 2024, 366, 1719.
+            Jitendra Singh, Ningh Singh, and Anuj Sharma*, &quot;Visible light Induced Photocatalyst-Free C_X (X= B, C, O, P, S, Se) Bond Formation of Aryl Halides&quot;, Adv. Synth. Catal., 2024, 366, 1719.
            <a
               href="https://doi.org/10.1002/adsc.202400155"
               className="block text-blue-600 hover:underline mt-1"
@@ -244,7 +244,7 @@ A Dhiya, M. Kaur, Manpreet and A. Sharma*, J. Org. Chem., 2025, 90, 11033−1104
         </li>
         <li className="pl-2">
           <p className="text-sm sm:text-base">
-            Barakha Saxena, Roshan I. Patel, and Anuj Sharma*, "Visible light-assisted chemistry of Vinyl Azides and its applications in organic synthesis", Org. Biomol. Chem., 2023, 21, 4723-4743.
+            Barakha Saxena, Roshan I. Patel, and Anuj Sharma*, &quot;Visible light-assisted chemistry of Vinyl Azides and its applications in organic synthesis&quot;, Org. Biomol. Chem., 2023, 21, 4723-4743.
             <a
               href="https://doi.org/10.1039/D3OB00588G"
               className="block text-blue-600 hover:underline mt-1"
@@ -266,7 +266,7 @@ A Dhiya, M. Kaur, Manpreet and A. Sharma*, J. Org. Chem., 2025, 90, 11033−1104
 
         <li className="pl-2">
           <p className="text-sm sm:text-base">
-            Barakha Saxena, Roshan I. Patel, and Anuj Sharma*, "Recent advances in electron donor-acceptor (EDA)-complex reactions  involving quaternary pyridinium derivatives", Adv. Synth. Catal., 2023, 365, 1538-1564.Most Downloaded article in ADSC journal 2023-2024. 
+            Barakha Saxena, Roshan I. Patel, and Anuj Sharma*, &quot;Recent advances in electron donor-acceptor (EDA)-complex reactions  involving quaternary pyridinium derivatives&quot;, Adv. Synth. Catal., 2023, 365, 1538-1564.Most Downloaded article in ADSC journal 2023-2024. 
             
             <a
               href="https://doi.org/10.1002/adsc.202300078"
@@ -281,7 +281,7 @@ A Dhiya, M. Kaur, Manpreet and A. Sharma*, J. Org. Chem., 2025, 90, 11033−1104
         </li>
         <li className="pl-2">
           <p className="text-sm sm:text-base">
-            Nihal Singh, Shivani Sharma and Anuj Sharma*, "Visible light induced EDA-mediated deaminative C-2 alkylation of heterocyclic-N-oxides using Katritzky salts", Adv. Synth. Catal., 2023, 365, 3505-3511.
+            Nihal Singh, Shivani Sharma and Anuj Sharma*, &quot;Visible light induced EDA-mediated deaminative C-2 alkylation of heterocyclic-N-oxides using Katritzky salts&quot;, Adv. Synth. Catal., 2023, 365, 3505-3511.
            <a
               href="https://doi.org/10.1002/adsc.202300723"
               className="block text-blue-600 hover:underline mt-1"
@@ -295,7 +295,7 @@ A Dhiya, M. Kaur, Manpreet and A. Sharma*, J. Org. Chem., 2025, 90, 11033−1104
         </li>
         <li className="pl-2">
           <p className="text-sm sm:text-base">
-            Jitendra Singh, and Anuj Sharma*, " Green and Sustainable Visible light-Mediated Formation of Amide Bonds: An Emerging Niche in Organic Synthesis", New J. Chem., 2022, 46, 16220-16242.
+            Jitendra Singh, and Anuj Sharma*, &quot; Green and Sustainable Visible light-Mediated Formation of Amide Bonds: An Emerging Niche in Organic Synthesis&quot;, New J. Chem., 2022, 46, 16220-16242.
            <a
               href="https://doi.org/10.1039/D2NJ02406C"
               className="block text-blue-600 hover:underline mt-1"
@@ -309,7 +309,7 @@ A Dhiya, M. Kaur, Manpreet and A. Sharma*, J. Org. Chem., 2025, 90, 11033−1104
         </li>
         <li className="pl-2">
           <p className="text-sm sm:text-base">
-            Jitendra Singh, Roshan I. Patel, and Anuj Sharma*, "Visible light-Mediated C-2 Functionalization and Deoxygenation of Heterocyclic N-Oxides", Adv. Synth. Catal., 2022, 364, 2289.
+            Jitendra Singh, Roshan I. Patel, and Anuj Sharma*, &quot;Visible light-Mediated C-2 Functionalization and Deoxygenation of Heterocyclic N-Oxides&quot;, Adv. Synth. Catal., 2022, 364, 2289.
           
            <a
               href="https://doi.org/10.1002/adsc.202200200"
@@ -323,7 +323,7 @@ A Dhiya, M. Kaur, Manpreet and A. Sharma*, J. Org. Chem., 2025, 90, 11033−1104
         </li>
         <li className="pl-2">
           <p className="text-sm sm:text-base">
-            Roshan I. Patel, Jitendra Singh,  and Anuj Sharma*, "Visible light-Mediated Manipulation of 1,n-Enynes in Organic Synthesis", ChemCatChem., 2022, 14, 1-33.
+            Roshan I. Patel, Jitendra Singh,  and Anuj Sharma*, &quot;Visible light-Mediated Manipulation of 1,n-Enynes in Organic Synthesis&quot;, ChemCatChem., 2022, 14, 1-33.
            <a
               href="https://doi.org/10.1002/cctc.202200260"
               className="block text-blue-600 hover:underline mt-1"
@@ -337,7 +337,7 @@ A Dhiya, M. Kaur, Manpreet and A. Sharma*, J. Org. Chem., 2025, 90, 11033−1104
         </li>
         <li className="pl-2">
           <p className="text-sm sm:text-base">
-            Jitendra Singh, Anoop Sharma, and Anuj Sharma*, "Visible light-Mediated Functionalization of Allenes", Org. Chem. Front., 2021, 5651-5667.
+            Jitendra Singh, Anoop Sharma, and Anuj Sharma*, &quot;Visible light-Mediated Functionalization of Allenes&quot;, Org. Chem. Front., 2021, 5651-5667.
            <a
               href="https://doi.org/10.1039/D1QO00955A"
               className="block text-blue-600 hover:underline mt-1"
@@ -351,7 +351,7 @@ A Dhiya, M. Kaur, Manpreet and A. Sharma*, J. Org. Chem., 2025, 90, 11033−1104
         </li>
         <li className="pl-2">
           <p className="text-sm sm:text-base">
-            Roshan I. Patel, Shivani Sharma, and Anuj Sharma*, "Cyanation: A photochemical Approach and Applications in  Organic Synthesis", Org. Chem. Front., 2021, 8, 3166-3200.
+            Roshan I. Patel, Shivani Sharma, and Anuj Sharma*, &quot;Cyanation: A photochemical Approach and Applications in  Organic Synthesis&quot;, Org. Chem. Front., 2021, 8, 3166-3200.
           
             <a
               href="https://doi.org/10.1039/D1QO00162K"
@@ -893,7 +893,7 @@ S. Sharma,  A Sharma*, Org. Biomol. Chem., 2019, 17, 4384-4405.
         </li>
         <li className="pl-2">
           <p className="text-sm sm:text-base">
-          N,N'-Bis(5-bromo-pyridin-2-yl)methanediamine, GS Nicol, A Sharma, HY Li, ActaCrystallogr., Sect. E, 2011, 67(4), 0833.
+          N,N&apos;-Bis(5-bromo-pyridin-2-yl)methanediamine, GS Nicol, A Sharma, HY Li, ActaCrystallogr., Sect. E, 2011, 67(4), 0833.
   
           </p>
         </li>

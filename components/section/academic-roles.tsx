@@ -22,19 +22,18 @@ export default function AcademicRoles() {
 }
 
 const roles = [
- 'Member of School Board, School of Basic Sciences, Central University of Punjab, Bathinda (2025- till date)',
+  'Member of School Board, School of Basic Sciences, Central University of Punjab, Bathinda (2025- till date)',
   'Member, Institute Human Ethics Committee (March 2025-till date)',
-'Chairman, JEE (July 2024 - July 2025)',
-'Vice-Chairman, JEE (Aug 2023-July 2024)',
-'Chairperson, DAPC (Jan 2023-July 2024)',
-'Member of academic committee for Army Cadet College, IMA, Dehradun (May 2023-till date)',
-'Member, Departmental Administrative Committee (DAC) (Aug 2022- till date)',
-'Member, DRC (Nov 2019-Nov 2022)',
-'Member, DAPC (2017-Nov 2019)',
-'Member, Institute lecture series (March 2016-March 2020)',
-'Chairman, Department Safety Committee (March 2017-March 2019)',
-'Member, Department Purchase Committee from 2013-2016',
-'Warden, Ganga Bhawan (capacity 500 students) from March 2013-June 2014',
-'Staff adviser, Cultural council (January 2012-May 2014)',
-
+  'Chairman, JEE (July 2024 - July 2025)',
+  'Vice-Chairman, JEE (Aug 2023-July 2024)',
+  'Chairperson, DAPC (Jan 2023-July 2024)',
+  'Member of academic committee for Army Cadet College, IMA, Dehradun (May 2023-till date)',
+  'Member, Departmental Administrative Committee (DAC) (Aug 2022- till date)',
+  'Member, DRC (Nov 2019-Nov 2022)',
+  'Member, DAPC (2017-Nov 2019)',
+  'Member, Institute lecture series (March 2016-March 2020)',
+  'Chairman, Department Safety Committee (March 2017-March 2019)',
+  'Member, Department Purchase Committee from 2013-2016',
+  'Warden, Ganga Bhawan (capacity 500 students) from March 2013-June 2014',
+  'Staff adviser, Cultural council (January 2012-May 2014)',
 ];

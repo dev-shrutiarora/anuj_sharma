@@ -1,7 +1,4 @@
-import React from 'react';
-import { Card, CardContent, CardHeader, CardTitle } from '../ui/card';
-import { Zap } from 'lucide-react';
-import Link from 'next/link';
+ 
 
 export default function MajorContributions() {
   return (

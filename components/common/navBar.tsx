@@ -47,6 +47,12 @@ export default function NavBar() {
               People
             </Link>
             <Link
+              href="/gallery"
+              className="text-sm font-medium hover:underline"
+            >
+              Gallery
+            </Link>
+            <Link
               href="/problems-addressed"
               className="text-sm font-medium hover:underline"
             >
@@ -118,6 +124,14 @@ export default function NavBar() {
               >
                 People
               </Link>
+              <Link
+                onClick={toggleMenu}
+                href="/gallery"
+                className="text-lg font-medium hover:underline"
+              >
+                Gallery
+              </Link>
+              
               <Link
                 onClick={toggleMenu}
                 href="/problems-addressed"

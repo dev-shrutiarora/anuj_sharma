@@ -1,21 +1,13 @@
 import React from 'react';
 
-import { TvMinimalPlay } from 'lucide-react';
-import CourseSection from './courseSection';
-import Image from 'next/image';
-
 export default function TeachingSection() {
   return (
     <section id="teaching" className="py-12 scroll-mt-20">
-      <div className="space-y-4">
-       
-
-        
-      </div>
+      <div className="space-y-4"></div>
       <div className="mt-8 space-y-8">
         <div>
           <h3 className="text-xl font-semibold mb-4"></h3>
-          
+
           {/* <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
             <Card>
               <CardHeader className="pb-2">
@@ -83,13 +75,7 @@ export default function TeachingSection() {
           </div> */}
         </div>
         <div>
-        
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
-            
-           
-            
-           
-          </div>
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-6"></div>
         </div>
       </div>
     </section>

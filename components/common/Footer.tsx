@@ -1,4 +1,4 @@
-import { Mail, MapPin, Phone, Youtube } from 'lucide-react';
+import { Facebook, Linkedin, Mail, MapPin, Phone, Twitter,   } from 'lucide-react';
 import React from 'react';
 import { Button } from '../ui/button';
 import Link from 'next/link';
@@ -31,18 +31,49 @@ export default function Footer() {
           </div>
         </div>
         <div className="flex gap-4">
-          <Button variant="outline" size="icon">
-            <Youtube />
-            <span className="sr-only">LinkedIn</span>
+          <Button
+            variant="outline"
+            size="icon"
+            asChild
+          >
+            <a
+              href="https://www.facebook.com/share/171f4iVxKy/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Facebook />
+              <span className="sr-only">Facebook</span>
+            </a>
           </Button>
-          <Button variant="outline" size="icon">
-            <Mail />
-            <span className="sr-only">Email</span>
+          <Button
+            variant="outline"
+            size="icon"
+            asChild
+          >
+            <a
+              href="https://x.com/anujs77"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Twitter />
+              <span className="sr-only">Twitter (X)</span>
+            </a>
           </Button>
-          <Button variant="outline" size="icon">
-            <MapPin />
-            <span className="sr-only">ResearchGate</span>
+          <Button
+            variant="outline"
+            size="icon"
+            asChild
+          >
+            <a
+              href="https://www.linkedin.com/in/anuj-sharma-0b96ab1b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Linkedin />
+              <span className="sr-only">LinkedIn</span>
+            </a>
           </Button>
+         
           <Button variant={'outline'}>
             <Link href="/contact">Contact</Link>
           </Button>

@@ -38,12 +38,7 @@ function ResearchTable({ title, columns, data }: ResearchTableProps) {
 }
 
 // Table data as constants
-const projectInvestigatorColumns = [
-  'S.No',
-  'Title',
-  'Patent No.',
-  'Inventors',
-];
+const projectInvestigatorColumns = ['S.No', 'Title', 'Patent No.', 'Inventors'];
 const projectInvestigatorData = [
   [
     '1.',
@@ -51,14 +46,14 @@ const projectInvestigatorData = [
     'Indian Patent Application No-202411058425',
     'Prof. Anuj Sharma, Barakha Sexena',
   ],
- [
+  [
     '2.',
     'A Process of Photoacid-Assisted Esterification of Carboxylic Acids',
     'Indian Patent Application No-202311075970',
     'Prof. Anuj Sharma, Jaya Tripathi',
   ],
 
-   [
+  [
     '3.',
     'Method for synthesizing C-3 substituted Quinoxalin-2(1H)-one compounds',
     'Indian Patent Application No-202311081034',
@@ -84,72 +79,42 @@ const projectInvestigatorData = [
     'AK Sinha, A Sharma, V Kumar',
   ],
 
-[
+  [
     '7.',
     'Single Step Green Process for the Preparation of Substituted Cinnamic Esters with trans-Selectivity',
     'US Patent No.20080045742',
     ' AK Sinha, A Sharma, A Swaroop, V Kumar',
-  
   ],
 
-[
-'8.',
-'A Single Step Microwave Induced Process for the Preparation Of Substituted Stilbenes and its Analogs',
-'US Patent Application No.20070276172',
- 'AK Sinha, A Sharma, V Kumar',
+  [
+    '8.',
+    'A Single Step Microwave Induced Process for the Preparation Of Substituted Stilbenes and its Analogs',
+    'US Patent Application No.20070276172',
+    'AK Sinha, A Sharma, V Kumar',
+  ],
 
-],
+  [
+    '9.',
+    'A Microwave Induced Process for the Chemoselective Reduction of Olefinic Bond of α,β-Unsaturated Carbonyl Compounds.',
+    'Filed No.0189 NF 2005',
+    'A Sharma, V Kumar,AK Sinha',
+  ],
 
-[
-'9.',
-'A Microwave Induced Process for the Chemoselective Reduction of Olefinic Bond of α,β-Unsaturated Carbonyl Compounds.',
-'Filed No.0189 NF 2005',
-'A Sharma, V Kumar,AK Sinha',
+  [
+    '10.',
+    'Microwave Induced Green Process for Decarboxylation of Substituted Cinnamic ',
+    'Filed in USA/India (846 Del/2006)',
+    'AK Sinha, V Kumar, A  Sharma',
+  ],
 
-],
-
-
-[
-  '10.',
-'Microwave Induced Green Process for Decarboxylation of Substituted Cinnamic ',
-'Filed in USA/India (846 Del/2006)',
-'AK Sinha, V Kumar, A  Sharma',
-
-],
-
-[
-'11.',
-'A process for isolation of vanillin and other phenolic compounds from Vanilla Beans',
-'filed in USA/India, ( C.S.I.R. No.  0107NF2006)',
-' by AK Sinha, UK Sharma, A Sharma',
-],
-
-
-
-
-]
-
-
-
-
-const coPiColumns = [
-  'S.No',
-  'Title of Project',
-  'Funding Agency',
-  'Financial Outlay',
-  'Year of Start & Total Period',
-  'Name of P.I. and other Investigators',
-  'Status Started or completed or in progress',
+  [
+    '11.',
+    'A process for isolation of vanillin and other phenolic compounds from Vanilla Beans',
+    'filed in USA/India, ( C.S.I.R. No.  0107NF2006)',
+    ' by AK Sinha, UK Sharma, A Sharma',
+  ],
 ];
-const coPiColumns1 = [
-  'S.No',
-  'Title of Project',
-  'Funding Agency',
-  'Financial Outlay',
-  'Year of Start & Total Period',
-  'Name of P.I. and other Investigators',
-  'Status Started or completed or in progress',
-];
+
 const coPiColumns2 = [
   'S.No',
   'Title of Project',
@@ -158,119 +123,6 @@ const coPiColumns2 = [
   'Year of Start & Total Period',
   'Name of P.I. and other Investigators',
   'Status Started or completed or in progress',
-];
-const coPiData = [
-  [
-    '1.',
-    'Need assessment of Ganga Water for rituals',
-    'Motilal Bhimaji Trust',
-    '67 lakhs',
-    '2014 6 Months',
-    'Dr. Rajat Agrawal',
-    'Completed',
-  ],
-  [
-    '2.',
-    'A study on cost-benefit analysis of inland waterways',
-    'Motilal Bhimaji Trust',
-    '2.5 Lakhs',
-    '2015',
-    'Dr. Rajat Agrawal',
-    'In Progress',
-  ],
-  [
-    '3.',
-    'Conducted 50 Full Day Workshops for BHEL, THDC, Power Grid Corporations for Middle to Top Executives',
-    'BHEL, THDC, Power Grid Corp',
-    '15 Lakhs',
-    '2011-2018',
-    'Prof. S. Ranganekar',
-    'Ongoing',
-  ],
-  [
-    '4.',
-    'Socio and Commercialization aspect of Forest Bio-Residue Briquetting Machine',
-    'Dept. of Forest, Govt. of Uttarakhand',
-    '7.5 Lakhs',
-    '01/05/2018 to 30/04/2019',
-    'Prof. R.P. Saini HRED Prof. M.P. Sharma HRED',
-    'Completed',
-  ],
-  [
-    '5.',
-    'Carrying Capacity Assessment of the Tourist Destination of Auli keeping Eco sensitivity of the place in mind',
-    'Govt. of Uttarakhand',
-    'Around 5 Lakhs',
-    'April 2021, Mar 2022',
-    'Dr. Rajat Agrawal',
-    'Completed',
-  ],
-];
-
-const coPiData1 = [
-  [
-    '1.',
-    'Drudgery reduction and Income enhancement of the Handloom weavers through technology intervention in Tripura',
-    'Department of Science & Technology, Government of India',
-    'Rs.75,27,634',
-    'June, 2024-May, 2027',
-    'Dr.Bibhuti Ranjan Bhattachariya, IIT Roorkee (PI) Prof. Inderdeep Singh (Co-PI), Prof. Rajat Agrawal, IIT Roorkee (Co-PI) Dr. Mamoni Kalita & Prof. Sujoy Hazari, ICFAI University, Tripura (Co-PI)',
-    'Ongoing',
-  ],
-  [
-    '2.',
-    'Participatory Action Research in Select Micro Watersheds in Uttarakhand',
-    'IIT Roorkee',
-    'Rs. 3750000',
-    'August 2022-July 2025',
-    'Professor S P Singh HSS (PI) Professor R P Saini HRED (Co-PI) Professor H C Pokhriyal Member BoG IIT Roorkee (Co-PI)',
-    'Ongoing',
-  ],
-  [
-    '3.',
-    'Building a network on Social Entrepreneurship, Co-creation and Innovation with partners from Copenhagen Business School, Denmark, FGV-EAESP, Sao Paulo, Brazil VUZF University, Sofia Bulgaria and IMT, Ghaziabad, India',
-    'Danish Innovation Council, Denmark',
-    '500,000 DKK',
-    '2014 1 Year',
-    'Sudhanshu Rai Associate Professor Copenhagen Business School, Denmark Dr.Rajat Agrawal, DoMS, IIT R',
-    'Completed',
-  ],
-  [
-    '4.',
-    'Developing Traditional Weaver Clusters near Roorkee Period of Two Years',
-    'FIG-B Project Funded by IITR',
-    'Rs. 3.50 Lakhs',
-    '2014 2 Years',
-    'Dr Rajat Agrawal, DoMS, IIT R Dr Z. Rahman, DoMS, IITR',
-    'Completed',
-  ],
-  [
-    '5.',
-    'International Project entitled "Promoting the International dimensions of Research in Higher Educational Institutes"',
-    'Funded by European Commission',
-    'Not specified',
-    '2014 1.5 years',
-    'Professor P.K. Ghosh, Metallurgy Department Dr. Rajat Agrawal, DoMS, IIT R',
-    'Completed',
-  ],
-  [
-    '6.',
-    'Mapping the transition in Knowledge Economy',
-    'MCIT Govt. of India',
-    '495 Lakhs',
-    '07/01/2008 to 10/31/2011',
-    'Prof. V.K. Nangia, Prof. S. Rangnekar, Dr.Rajat Agrawal, DoMS, IIT R',
-    'Project Complete Carried Out as (Co-Adviser)',
-  ],
-  [
-    '7.',
-    'Ganga River Basin Environment Management Plan',
-    'Government of India',
-    'Not specified',
-    '2011-2014',
-    'Prof. Vinod Tare, IIT Kanpur Prof. I. M. Mishra, Prof. S. P. Singh',
-    'A Team Member of IIT Consortium Team',
-  ],
 ];
 
 const coPiData2 = [
@@ -294,7 +146,7 @@ const coPiData2 = [
   ],
   [
     '3.',
-    "Conversion of biomass from flora of Utttrakhand into high valued products like biofuels using green and sustainable radical deoxygenation and decarboxylation processes.",
+    'Conversion of biomass from flora of Utttrakhand into high valued products like biofuels using green and sustainable radical deoxygenation and decarboxylation processes.',
     'UCOST',
     '8,00,000/-',
     '2021-2023',
@@ -303,7 +155,7 @@ const coPiData2 = [
   ],
   [
     '4.',
-    "Novel Mechanochemical (Ball milling) assisted synthesis of heterocyclic scaffolds and their biological evaluation",
+    'Novel Mechanochemical (Ball milling) assisted synthesis of heterocyclic scaffolds and their biological evaluation',
     'CSIR',
     '14,00,000/-',
     '2019-2022',
@@ -329,7 +181,7 @@ const coPiData2 = [
     'Prof. Anuj Sharma',
     'Completed',
   ],
-[
+  [
     '7.',
     'Rationale guided Design and preparation of novel anti-Tuberculosis chemotherapeutic agents through contemporary Synthetic interventions',
     'OSDD',
@@ -339,7 +191,7 @@ const coPiData2 = [
     'Completed',
   ],
 
-[
+  [
     '8.',
     'Glyoxalic acid as an effective formaldehyde equivalent in imine-mediated isocyanide based multicomponent reaction cascades',
     'DST (Under Young Scientist Award)',
@@ -349,7 +201,7 @@ const coPiData2 = [
     'Completed',
   ],
 
-[
+  [
     '9.',
     'A Diversity Oriented Synthesis of Cyclopenta-azulenones as Prospective Hemazoin Inhibitors in Malarial Chemotherapy',
     'FIG',
@@ -358,8 +210,6 @@ const coPiData2 = [
     'Prof. Anuj Sharma',
     'Completed',
   ],
-
-
 ];
 
 export default function ResearchTables() {
@@ -370,7 +220,7 @@ export default function ResearchTables() {
         columns={projectInvestigatorColumns}
         data={projectInvestigatorData}
       />
-    
+
       <ResearchTable
         title="Details of Sponsored Research Project as a Project Investigator:"
         columns={coPiColumns2}

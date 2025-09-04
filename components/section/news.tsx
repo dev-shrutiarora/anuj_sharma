@@ -8,7 +8,7 @@ import {
   CardHeader,
   CardTitle,
 } from '@/components/ui/card';
-import { Award, ChevronLeft, ChevronRight, Newspaper } from 'lucide-react';
+import { ChevronLeft, ChevronRight, Newspaper } from 'lucide-react';
 import { useRef, useEffect } from 'react';
 
 export default function HomePage() {
@@ -18,10 +18,10 @@ export default function HomePage() {
       id: 1,
       title: 'Congratulations Jaya for thegrant of an Indian Patent',
       content:
-        "This patent filed for a mild, sustainable, light assisted method for Fischer like estrification.",
+        'This patent filed for a mild, sustainable, light assisted method for Fischer like estrification.',
       lastUpdate: '2025-08-28',
     },
- {
+    {
       id: 2,
       title: 'Positions are available in our group',
       content:
@@ -46,20 +46,20 @@ export default function HomePage() {
 
     {
       id: 5,
-      title: 'Our perspective on the use of the thianthrenium salts under light mediated protocols...',
+      title:
+        'Our perspective on the use of the thianthrenium salts under light mediated protocols...',
       content:
         'Published in J. Org. Chem.,"Photoactivation of Thianthrenium salts: An Electron-Donor-Acceptor(EDA)- Complex Approach."',
       lastUpdate: '2025-05-14',
     },
     {
       id: 6,
-      title: 'Prof Anuj appointed as an associate editer of Molecular Diversity',
+      title:
+        'Prof Anuj appointed as an associate editer of Molecular Diversity',
       content:
         'Prof Anuj Sharma appointed as an associate editer of Molecular Diversity (Spring Nature) from January 2025.',
       lastUpdate: '2025-28-01',
     },
-  
-   
   ];
 
   const scrollLeft = () => {

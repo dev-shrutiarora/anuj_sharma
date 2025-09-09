@@ -25,7 +25,7 @@ export default function HomePage() {
       id: 2,
       title: 'Positions are available in our group',
       content:
-        'Please contact Prof Anuj sharma for this. Applications from highly motivated students to join the group for Ph.D. and Post Doc in the topics of our research interests are welcome.',
+        'Please contact Prof Anuj sharma for this. Applications from highly motivated students to join the group for Ph.D. (JRF qualified candidates can directly approach) and Post Doc in the topics of our research interests are welcome.',
       lastUpdate: '2025-08-23',
     },
 

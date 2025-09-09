@@ -10,7 +10,7 @@ export default function page() {
           <div className="grid gap-10">
             <div className="grid gap-6">
               <Image
-                src="/hero3.jpg"
+                src="/hero4.jpg"
                 alt="Prof. Anuj Sharma"
                 width={1300}
                 height={1300}
@@ -20,7 +20,7 @@ export default function page() {
                 About Prof. Anuj Sharma
               </h2>
               <div className="prose prose-gray dark:prose-invert max-w-none space-y-5">
-                <p>
+                <p className="text-justify">
                   Professor Anuj Sharma, Ph.D., FRSC, is a distinguished
                   professor in the Department of Chemistry at the Indian
                   Institute of Technology Roorkee (IIT Roorkee). He has over 20
@@ -35,7 +35,7 @@ export default function page() {
                   immensely. He joined IIT Roorkee in 2011 and is now Professor
                   of Chemistry.
                 </p>
-                <p>
+                <p className="text-justify">
                   Professor Sharma&apos;s research team sets new trends in
                   sustainable synthetic routes, including multicomponent
                   reactions, radical processes for bond construction, and
@@ -47,7 +47,7 @@ export default function page() {
                   Associate Editor of the journal Molecular Diversity and a
                   member of several editorial and scientific committees.
                 </p>
-                <p>
+                <p className="text-justify">
                   He is also a fellow of various national and international
                   societies, such as the Royal Society of Chemistry, American
                   Chemical Society, Indian Chemical Society, Indian National
@@ -60,7 +60,7 @@ export default function page() {
                   discovery. He has organized national conferences on modern
                   organic synthesis (CFOS-2017, CFOS-2022) at IIT Roorkee.
                 </p>
-                <p>
+                <p className="text-justify">
                   At IIT Roorkee, he is an accomplished mentor, having guided
                   several Ph.D., M.Tech., and M.Sc. dissertations. His teaching
                   curriculum includes advanced organic chemistry, heterocyclic

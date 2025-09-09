@@ -35,11 +35,11 @@ const profiles: Profile[] = [
   },
   {
     id: '2',
-    name: 'Dr. Tanpreet',
-    role: 'Post-Doc',
-    department: '2015-2018',
-    bio: '',
-    image: '/people/av.png?height=400&width=300',
+    name: 'Barakha',
+    role: 'PhD ',
+    department: ' ---- -2025',
+    bio: 'Thesis Title: Harnessing light and mechanochemistry for green and sustainable sulfonylation reactions',
+    image: '/people/p12.jpg?height=400&width=300',
     category: 'alumni',
   },
 
@@ -162,7 +162,6 @@ const profiles: Profile[] = [
     department: '..... - Present',
     bio: 'working on "................."',
     image: '/people/av.png?height=400&width=300',
-    email: 'harshita_g@cy.iitr.ac.in',
     category: 'scholar',
   },
 
@@ -173,7 +172,6 @@ const profiles: Profile[] = [
     department: '..... - Present',
     bio: 'working on "................."',
     image: '/people/av.png?height=400&width=300',
-    email: 'harshita_g@cy.iitr.ac.in',
     category: 'scholar',
   },
   {
@@ -558,6 +556,16 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Sc., 2024',
     bio: 'Thesis title: Persulfate-assisted synthesis of 2-aryl benzothiazoles under ball milling',
+    image: '/people/av.png?height=400&width=300',
+    category: 'alumni',
+  },
+
+  {
+    id: '57',
+    name: 'Dr. Tanpreet',
+    role: 'Post-Doc',
+    department: '2015-2018',
+    bio: '',
     image: '/people/av.png?height=400&width=300',
     category: 'alumni',
   },

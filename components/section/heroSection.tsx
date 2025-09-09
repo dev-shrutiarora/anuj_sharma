@@ -6,11 +6,11 @@ export default function HeroSection() {
   const [currentSlide, setCurrentSlide] = useState(0);
 
   const slides = [
+    '/hero/na7.jpg?height=1080&width=1920',
+    '/hero/na8.jpg?height=1080&width=1920',
     '/hero/na1.jpg?height=1080&width=1920',
     '/hero/na2.jpg?height=1080&width=1920',
     '/hero/na3.jpg?height=1080&width=1920',
-    '/hero/na4.jpg?height=1080&width=1920',
-    '/hero/na5.jpg?height=1080&width=1920',
     '/hero/na6.jpg?height=1080&width=1920'
     
   ];

@@ -14,6 +14,7 @@ export default function page() {
                 alt="Prof. Anuj Sharma"
                 width={1300}
                 height={1300}
+                className="mx-auto block"
               />
 
               <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">

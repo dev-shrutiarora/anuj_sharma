@@ -6,6 +6,7 @@ import {
   CardTitle,
 } from '@/components/ui/card';
 
+
 const researchSections = [
   {
     title: '1. Photoredox Chemistry',
@@ -53,6 +54,17 @@ export default function ResearchProblems() {
   return (
     <div className="container mx-auto py-8 px-4">
       <h1 className="text-4xl font-bold mb-8 text-center">Research</h1>
+     <p className="text-lg leading-relaxed text-gray-700 mb-10 max-w-4xl mx-auto text-justify">
+        Our research focuses on developing innovative methodologies at the 
+        interface of photoredox catalysis, radical chemistry, and sustainable 
+        organic synthesis. By combining mechanistic insights with practical 
+        synthetic strategies, we aim to provide new tools for efficient 
+        functional group transformations and their applications in 
+        pharmaceuticals, materials, and energy sciences.Our laboratory is located at the second floor in the department at IIT Roorkee. The lab houses basic modular facilities  for an organic synthesis lab. In addition, the lab houses sophisticated Monowave Microwave Organic Synthesizers from Anton Paar (Monowave 300). Our lab also routinely employs basic molecular modeling toolkit to carry out Docking experiments.In addition, we have access to all the modern sophisticated analytical instruments in the department and the Institute as a common facility like, LCMS, HRMS, GCMS, 500MHz NMR, CHN analyzer , Param Ganga National Supercomputing facility and addition to this list is ongoing.
+
+More importantly, every research student in the department gets a hands on experience in all the above mentioned instruments.
+      </p>
+
 
       <div className="space-y-8">
         {researchSections.map((section) => (

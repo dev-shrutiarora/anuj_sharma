@@ -16,14 +16,14 @@ export default function HomePage() {
   const newsUpdates = [
     {
       id: 1,
-      title: 'Congratulations Jaya for thegrant of an Indian Patent',
+      title: 'Congratulations Jaya for the grant of an Indian Patent',
       content:
         'This patent filed for a mild, sustainable, light assisted method for Fischer like estrification.',
       lastUpdate: '2025-08-28',
     },
     {
       id: 2,
-      title: 'Positions are available in our group',
+      title: 'Vacancies !!!!!',
       content:
         'Please contact Prof Anuj sharma for this. Applications from highly motivated students to join the group for Ph.D. (JRF qualified candidates can directly approach) and Post Doc in the topics of our research interests are welcome.',
       lastUpdate: '2025-08-23',

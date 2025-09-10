@@ -132,7 +132,7 @@ const coPiData2 = [
     'DRDE-DRDO',
     '12,40,000/-',
     '2024-2025',
-    'Prof. Anuj Sharma',
+    'Prof. Anuj Sharma, Prof. Debasis Banerjee',
     'Ongoing',
   ],
   [

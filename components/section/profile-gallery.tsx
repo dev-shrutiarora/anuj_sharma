@@ -27,7 +27,7 @@ const profiles: Profile[] = [
     name: 'Prof. Anuj Sharma',
     role: '',
     department: 'Department of Chemistry',
-    bio: 'Leading researcher in Chemistry with 20+ years of experience',
+    bio: 'Leading researcher in Chemistry with 20+ years of experience and 100+ Publications',
     image: '/people/p1.jpg?height=400&width=300',
     email: 'anuj.sharma@cy.iitr.ac.in',
     website: 'https://example.edu/sjohnson',

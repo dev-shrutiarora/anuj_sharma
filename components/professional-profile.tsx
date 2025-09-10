@@ -33,7 +33,7 @@ const educationData = [
   {
     qualification: 'TWAS Postdoc',
     university:
-      'Department of Chemistry, Federal University of Santa Maria, Santa Maria, RS, Brasil (Mentor: Prof. A. L. Braga).',
+      'Department of Chemistry, Federal University of Santa Maria, Santa Maria, RS, Brazil (Mentor: Prof. A. L. Braga).',
     year: 'Aug. 2006',
   },
 
@@ -211,7 +211,7 @@ export default function ProfessionalProfile() {
                 </li>
               </ul>
 
-              <strong>KEY-NOTE LECTURE:</strong>
+              <strong>KEY-NOTE LECTURES:</strong>
               <ul className="list-disc pl-6 mt-2">
                 <li>
                   {' '}
@@ -252,20 +252,20 @@ export default function ProfessionalProfile() {
                   on 21.12.2019
                 </li>
                 <li>
-                  8. At IIT Roorkee, on topic &quot;Art of Teaching&quot; in a
+                  At IIT Roorkee, on topic &quot;Art of Teaching&quot; in a
                   QIP sponsored Short term course on “Advance Pedagogy and
                   Digital Tools” conducted by Humanities department dated 3rd
                   -7th June 2019
                 </li>
                 <li>
                   {' '}
-                  9. At HNB Garhwal Central University, Srinagar, on topic
+                   At HNB Garhwal Central University, Srinagar, on topic
                   &quot;Curious case of separation science&quot; in a DST
                   sponsored Inspire Science Camp in January, 2019
                 </li>
                 <li>
                   {' '}
-                  10. At HNB Garhwal Central University, Srinagar, on topic
+                  At HNB Garhwal Central University, Srinagar, on topic
                   &quot;The story of Chromatography&quot; in two different DST
                   sponsored Inspire Science Camp on dated 17th & 29th January,
                   2017and 18th March, 2017.
@@ -274,7 +274,7 @@ export default function ProfessionalProfile() {
                 Discovery: Opportunity at the Bottom of the Pyramid&quot; in DST
                 sponsored Inspire Science Camp dated 17th January, 2015
               </ul>
-              <strong>AS GUEST LECTURE</strong>
+              <strong>GUEST LECTURES</strong>
               <ul className="list-disc pl-6 mt-2">
                 <li>
                   {' '}
@@ -447,6 +447,10 @@ export default function ProfessionalProfile() {
           </CardHeader>
           <CardContent className="space-y-4 pt-6">
             <ul className="list-disc pl-6 space-y-3">
+              <li>
+                Member, Institute of Human Ethics Committee (IHEC), Indian Institute of Technology, Roorkee
+                (March 2025 - till date)
+              </li>
               <li>
                 JEE Vice Chairperson, Indian Institute of Technology, Roorkee
                 (11 Aug 2023 - 10 Aug 2024)

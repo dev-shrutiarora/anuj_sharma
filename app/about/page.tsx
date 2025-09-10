@@ -12,8 +12,8 @@ export default function page() {
               <Image
                 src="/hero4.jpg"
                 alt="Prof. Anuj Sharma"
-                width={1300}
-                height={1300}
+                width={1200}
+                height={1200}
                 className="mx-auto block"
               />
 

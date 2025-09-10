@@ -22,7 +22,7 @@ export default function AcademicRoles() {
 }
 
 const roles = [
-  'Member of School Board, School of Basic Sciences, Central University of Punjab, Bathinda (2025- till date)',
+  'Member of Board of studies, School of Basic Sciences, Central University of Punjab, Bathinda (2025- till date)',
   'Member, Institute Human Ethics Committee (March 2025-till date)',
   'Chairman, JEE (July 2024 - July 2025)',
   'Vice-Chairman, JEE (Aug 2023-July 2024)',

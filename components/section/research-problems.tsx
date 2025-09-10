@@ -30,7 +30,7 @@ const researchSections = [
   {
     title: '2. Mechanochemistry',
     description:
-      'We use mechanical energy from ball-milling to carry out reactions that are usually hard to access or that need a lot of solvents. Our goal is to achieve solvent-free, atom-efficient results. This work covers decarboxylative cross-couplings like sulfonylations and alkylations, building and modifying heterocycles, and activating high-energy intermediates in solid-state reactions. These include generating sulfonyl and aryl radicals from sulfinate and sulfonium systems. Besides improving the process and reducing waste, the solid-state setup offers unique selectivity. This includes less competitive solvolysis and changes in ion pairing. It also allows for scalability that fits with eco-friendly manufacturing.',
+      'We use mechanical energy from ball-milling to carry out reactions that are usually hard to access or that need a lot of solvents. Our goal is to achieve solvent-free, atom-efficient and sustianable organic transformations. This work covers decarboxylative cross-couplings like sulfonylations and alkylations, building and modifying heterocycles, and activating high-energy intermediates in solid-state reactions. These include generating sulfonyl and aryl radicals from sulfinate and sulfonium systems. Besides improving the process and reducing waste, the solid-state setup offers unique selectivity. This includes less competitive solvolysis and changes in ion pairing. It also allows for scalability that fits with eco-friendly manufacturing.',
     items: [
       {
         text: 'Raman Kumar, Anoop Sharma and Anuj Sharma*, "Mechanochemically induced Thianthrenium Salts-Based Arylation of Diverse Heterocyclic Scaffolds", ASC Sustainable Chem. Eng., 2024, 12, 34, 12808-12818.',
@@ -43,7 +43,7 @@ const researchSections = [
     ],
   },
   {
-    title: '3. Electrophotoredox (under development)',
+    title: '3. Electrophotoredox',
     description:
       'We are building a hybrid electro-photo platform that integrates electrochemical bias with visible-light excitation to modulate redox windows and reactive-state populations synergistically.',
     items: [],
@@ -60,7 +60,7 @@ export default function ResearchProblems() {
         organic synthesis. By combining mechanistic insights with practical 
         synthetic strategies, we aim to provide new tools for efficient 
         functional group transformations and their applications in 
-        pharmaceuticals, materials, and energy sciences.Our laboratory is located at the second floor in the department at IIT Roorkee. The lab houses basic modular facilities  for an organic synthesis lab. In addition, the lab houses sophisticated Monowave Microwave Organic Synthesizers from Anton Paar (Monowave 300). Our lab also routinely employs basic molecular modeling toolkit to carry out Docking experiments.In addition, we have access to all the modern sophisticated analytical instruments in the department and the Institute as a common facility like, LCMS, HRMS, GCMS, 500MHz NMR, CHN analyzer , Param Ganga National Supercomputing facility and addition to this list is ongoing.
+        pharmaceuticals, materials, and energy sciences. Our laboratory is located at the second floor in the department at IIT Roorkee. The lab houses basic modular facilities for an organic synthesis lab. In addition, In our lab, we have an indigenous photochemical reactor and high-end ball milling instrument for mechanochemical reactions. In addition, we have access to all the modern sophisticated analytical instruments in the department and the Institute as a common facility like, LCMS, HRMS, GCMS, 500MHz NMR, CHN analyzer, Param Ganga National Supercomputing facility and addition to this list is ongoing.
 
 More importantly, every research student in the department gets a hands on experience in all the above mentioned instruments.
       </p>

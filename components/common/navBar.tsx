@@ -26,7 +26,7 @@ export default function NavBar() {
               |
             </span>
             <span className="hidden text-muted-foreground md:inline-block">
-              Lab of Light Assisted and Mechanochemical Practices 
+              Laboratory for Light Assisted and Mechanochemical Practices 
             </span>
           </div>
           <nav className="hidden xl:flex items-center gap-6">

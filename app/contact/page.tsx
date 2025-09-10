@@ -32,10 +32,10 @@ const page = () => {
               <CheckIcon className="mr-2 inline-block h-4 w-4" /> Green and sustainable Chemistry
             </div>
             <div className="text-muted-foreground">
-              <CheckIcon className="mr-2 inline-block h-4 w-4" /> Electrophotoredox (under development)
+              <CheckIcon className="mr-2 inline-block h-4 w-4" /> Electrophotoredox
             </div>
             <div className="text-muted-foreground">
-              <CheckIcon className="mr-2 inline-block h-4 w-4" /> Electron Donor-Acceptor (EDA) complxes in Synthetic Transformation
+              <CheckIcon className="mr-2 inline-block h-4 w-4" /> Electron Donor-Acceptor (EDA) complexes in Synthetic Transformation
             </div>
              </div>
           <div>

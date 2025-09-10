@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Prof.  Anuj Sharma',
-  description: 'Professor of Marketing & Strategy',
+  title: 'Prof. Anuj Sharma',
+  description: 'Professor in Department of Chemistry',
 };
 
 export default function RootLayout({

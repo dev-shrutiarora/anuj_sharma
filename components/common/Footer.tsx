@@ -75,7 +75,7 @@ export default function Footer() {
           </Button>
          
           <Button variant={'outline'}>
-            <Link href="/contact">Contact</Link>
+            <Link href="contact">Contact</Link>
           </Button>
         </div>
       </div>

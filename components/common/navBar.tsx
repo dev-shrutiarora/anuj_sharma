@@ -19,7 +19,6 @@ export default function NavBar() {
         <div className="container mx-auto flex h-16 items-center justify-between px-6 md:px-8  ">
           <div className="flex items-center gap-2">
             <Link href={'/'} className="flex items-center gap-2">
-            <img />
               <h1 className="text-xl font-bold">L. L. A. M. P.</h1>
             </Link>
 
@@ -31,36 +30,36 @@ export default function NavBar() {
             </span>
           </div>
           <nav className="hidden xl:flex items-center gap-6">
-            <Link href="/about" className="text-sm font-medium hover:underline">
+            <Link href="about" className="text-sm font-medium hover:underline">
               About
             </Link>
             <Link
-              href="/projects"
+              href="projects"
               className="text-sm font-medium hover:underline"
             >
               Projects & Patents
             </Link>
 
             <Link
-              href="/people"
+              href="people"
               className="text-sm font-medium hover:underline"
             >
               People
             </Link>
             <Link
-              href="/gallery"
+              href="gallery"
               className="text-sm font-medium hover:underline"
             >
               Gallery
             </Link>
             <Link
-              href="/problems-addressed"
+              href="problems-addressed"
               className="text-sm font-medium hover:underline"
             >
               Research
             </Link>
             <Link
-              href="/contact"
+              href="contact"
               className="text-sm font-medium hover:underline"
             >
               Contact
@@ -105,14 +104,14 @@ export default function NavBar() {
             <div className="flex flex-col gap-6 text-primary">
               <Link
                 onClick={toggleMenu}
-                href="/about"
+                href="about"
                 className="text-lg font-medium hover:underline"
               >
                 About
               </Link>
               <Link
                 onClick={toggleMenu}
-                href="/projects"
+                href="projects"
                 className="text-lg font-medium hover:underline"
               >
                 Projects & Patents
@@ -120,14 +119,14 @@ export default function NavBar() {
 
               <Link
                 onClick={toggleMenu}
-                href="/people"
+                href="people"
                 className="text-lg font-medium hover:underline"
               >
                 People
               </Link>
               <Link
                 onClick={toggleMenu}
-                href="/gallery"
+                href="gallery"
                 className="text-lg font-medium hover:underline"
               >
                 Gallery
@@ -135,7 +134,7 @@ export default function NavBar() {
               
               <Link
                 onClick={toggleMenu}
-                href="/problems-addressed"
+                href="problems-addressed"
                 className="text-lg font-medium hover:underline"
               >
                 Research Areas
@@ -143,7 +142,7 @@ export default function NavBar() {
 
               <Link
                 onClick={toggleMenu}
-                href="/contact"
+                href="contact"
                 className="text-lg font-medium hover:underline"
               >
                 Contact

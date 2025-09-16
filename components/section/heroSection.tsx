@@ -6,12 +6,12 @@ export default function HeroSection() {
   const [currentSlide, setCurrentSlide] = useState(0);
 
   const slides = [
-    '/hero/na7.jpg?height=1080&width=1920',
-    '/hero/na8.jpg?height=1080&width=1920',
-    '/hero/na1.jpg?height=1080&width=1920',
-    '/hero/na2.jpg?height=1080&width=1920',
-    '/hero/na3.jpg?height=1080&width=1920',
-    '/hero/na6.jpg?height=1080&width=1920'
+    'hero/na8.jpg?height=1080&width=1920',
+    'hero/na7.jpg?height=1080&width=1920',
+    'hero/na1.jpg?height=1080&width=1920',
+    'hero/na2.jpg?height=1080&width=1920',
+    'hero/na3.jpg?height=1080&width=1920',
+    'hero/na6.jpg?height=1080&width=1920'
     
   ];
 
@@ -41,6 +41,7 @@ export default function HeroSection() {
                 alt={`Slide ${index + 1}`}
                 fill
                 priority={index === 0}
+      
                 className="object-cover rounded-lg"
               />
             </div>
@@ -70,7 +71,7 @@ export default function HeroSection() {
              Prof. Anuj Sharma
             </h1>
             <p className="max-w-[700px] text-lg text-muted-foreground">
-              Focuses on developing green and sustainable organic synthetic methods,radical-driven organic transformations, and several radical-based transformations using visible light photoredox conditions or mechanochemical methods. 
+              Focuses on developing green and sustainable organic synthetic methods, radical-driven organic transformations, and several radical-based transformations using visible light photoredox conditions or mechanochemical methods. 
             </p>
           </div>
         </div>

@@ -17,7 +17,7 @@ export default function page() {
 
         {/* <hr /> */}
         <p className="text-muted-foreground">
-          Contributions to Journal Publications in the Field of Chemsitry.
+          Contributions to Journal Publications in the Field of Chemistry.
         </p>
       </div>
       <ol className="mt-8 list-decimal pl-6 space-y-6">

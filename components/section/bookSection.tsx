@@ -7,7 +7,7 @@ import { Button } from '../ui/button';
 const BOOKS_DATA = [
   {
     id: 1,
-    image: '/book/book6.jpg',
+    image: 'book/book6.jpg',
     alt: 'Multi-Target Drug Design Book',
     title:
       'Multi-Target Drug Design Using Chem-Bioinformatic Approaches. Methods in Pharmacology',
@@ -17,7 +17,7 @@ const BOOKS_DATA = [
   },
   {
     id: 2,
-    image: '/book/book7.jpg',
+    image: 'book/book7.jpg',
     alt: 'Studies in Natural Product Chemistry Book',
     title:
       'Studies in Natural Product Chemistry Year: 2020, A. Monga, A. Sharma | Elsevier',

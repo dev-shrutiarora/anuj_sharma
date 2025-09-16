@@ -27,7 +27,7 @@ const educationData = [
   {
     qualification: 'Ph.D.',
     university:
-      'Institute of Himalayan Bioresource Technology (IHBT), CSIR, Palampur, Himachal Pradesh(Supervisor: Dr Arun K Sinha)',
+      'Institute of Himalayan Bioresource Technology (IHBT), CSIR, Palampur, Himachal Pradesh (Supervisor: Dr. Arun K Sinha)',
     year: '2006',
   },
   {
@@ -46,7 +46,7 @@ const educationData = [
   {
     qualification: 'NIH Postdoc',
     university:
-      'Department of Pharmacology, University of Arizona, Tucson, USA (Mentor: Prof. L. H. Hurley and Dr. B. De)',
+      'Department of Pharmacology, University of Arizona, Tucson, USA (Mentor: Prof. L. H. Hurley)',
     year: 'Dec 2007-2011',
   },
 ];
@@ -87,19 +87,19 @@ const employmentData = [
     title: 'PROFESSOR',
     period: 'April 2021 - Present',
     employer:
-      'Department of Chemsitry, INDIAN INSTITUTE OF TECHNOLOGY (IIT) ROORKEE',
+      'Department of Chemistry, INDIAN INSTITUTE OF TECHNOLOGY (IIT) ROORKEE',
   },
   {
     title: 'ASSOCIATE PROFESSOR',
     period: 'Nov-2015 - April 2021',
     employer:
-      'IDepartment of Chemsitry, NDIAN INSTITUTE OF TECHNOLOGY (IIT) ROORKEE',
+      'Department of Chemistry, INDIAN INSTITUTE OF TECHNOLOGY (IIT) ROORKEE',
   },
   {
     title: 'ASSISTANT PROFESSOR',
     period: 'May 2011 - Nov 2015',
     employer:
-      'Department of Chemsitry, INDIAN INSTITUTE OF TECHNOLOGY (IIT) ROORKEE',
+      'Department of Chemistry, INDIAN INSTITUTE OF TECHNOLOGY (IIT) ROORKEE',
   },
 ];
 
@@ -456,11 +456,11 @@ export default function ProfessionalProfile() {
                 (11 Aug 2023 - 10 Aug 2024)
               </li>
               <li>
-                Chairman JEE advanced office, Indian Institute of Technology,
+                Chairman JEE advanced, Indian Institute of Technology,
                 Roorkee, India (12 Aug 2024 - July 2025)
               </li>
               <li>
-                Charperson DAPC, Depatment of Chemistry, IIT Roorkee (1 Jan 2023
+                Chairperson DAPC, Depatment of Chemistry, IIT Roorkee (1 Jan 2023
                 - 1 Jan 2024)
               </li>
               <li>
@@ -472,7 +472,7 @@ export default function ProfessionalProfile() {
                 Aug 2020 - Present)
               </li>
               <li>
-                Faculty advisor, Cultural council, IIT Roorkee (i Jan 2012 - 1
+                Faculty advisor, Cultural council, IIT Roorkee (1 Jan 2012 - 1
                 Jan 2014)
               </li>
               <li>
@@ -482,16 +482,15 @@ export default function ProfessionalProfile() {
               <li> Warden, IIT Roorkee (1 Jan 2013 - 1 Jan 2014)</li>
               <li>
                 Member, Department Purchase Commitee, Indian Institute of
-                Technology, Roorkee (4 AUg 2020 - Present)
+                Technology, Roorkee (Aug 2020 - 2023)
               </li>
               <li>
                 {' '}
                 Faculty Adviser, Department Cognizance team, Indian Institute of
-                Technology, Roorkee (4 Aug 2020 - Present)
+                Technology, Roorkee (Aug 2022 - 2024)
               </li>
               <li>Member, DPC, IIT Roorkee (1 Jan 2013 - 1 Jan 2016)</li>
               <li>OC, Safety, IIT Roorkee, (1 Jan 2014 - Present)</li>
-              <li>Member, DPC, Department of Design, IIT Roorkee.</li>
             </ul>
           </CardContent>
         </Card>

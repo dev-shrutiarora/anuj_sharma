@@ -118,7 +118,7 @@ const ongoingPhdData = [
 
    {
     name: 'Anjali Garg',
-    title: `Novel C-C bond formation using visible-light and balling`,
+    title: `Novel C-C bond formation using visible-light and ball milling`,
     year: ' 2023- Present',
     status: 'Ongoing',
   },

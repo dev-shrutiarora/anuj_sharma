@@ -60,7 +60,7 @@ export default function ResearchProblems() {
         organic synthesis. By combining mechanistic insights with practical 
         synthetic strategies, we aim to provide new tools for efficient 
         functional group transformations and their applications in 
-        pharmaceuticals, materials, and energy sciences. Our laboratory is located at the second floor in the department at IIT Roorkee. The lab houses basic modular facilities for an organic synthesis lab. In addition, In our lab, we have an indigenous photochemical reactor and high-end ball milling instrument for mechanochemical reactions. In addition, we have access to all the modern sophisticated analytical instruments in the department and the Institute as a common facility like, LCMS, HRMS, GCMS, 500MHz NMR, CHN analyzer, Param Ganga National Supercomputing facility and addition to this list is ongoing.
+        pharmaceuticals, materials, and energy sciences. Our laboratory is located at the second floor in the department of Chemistry, IIT Roorkee. The lab houses basic modular facilities for an organic synthesis lab. In addition, In our lab, we have an indigenous photochemical reactor and high-end ball milling instrument for mechanochemical reactions. In addition, we have access to all the modern sophisticated analytical instruments in the department and the Institute as a common facility like, LCMS, HRMS, GCMS, 500MHz NMR, CHN analyzer, Param Ganga National Supercomputing facility and addition to this list is ongoing.
 
 More importantly, every research student in the department gets a hands on experience in all the above mentioned instruments.
       </p>

@@ -1,10 +1,10 @@
-'use client';
+"use client";
 
-import Link from 'next/link';
-import React from 'react';
+import Link from "next/link";
+import React from "react";
 
-import { useState } from 'react';
-import { Menu, X } from 'lucide-react';
+import { useState } from "react";
+import { Menu, X } from "lucide-react";
 
 export default function NavBar() {
   const [menu, setMenu] = useState(false);
@@ -18,7 +18,7 @@ export default function NavBar() {
       <div className="hidden lg:block">
         <div className="container mx-auto flex h-16 items-center justify-between px-6 md:px-8  ">
           <div className="flex items-center gap-2">
-            <Link href={'/'} className="flex items-center gap-2">
+            <Link href={"/"} className="flex items-center gap-2">
               <h1 className="text-xl font-bold">L. L. A. M. P.</h1>
             </Link>
 
@@ -26,7 +26,7 @@ export default function NavBar() {
               |
             </span>
             <span className="hidden text-muted-foreground md:inline-block">
-              Laboratory for Light Assisted and Mechanochemical Practices 
+              Laboratory for Light Assisted and Mechanochemical Practices
             </span>
           </div>
           <nav className="hidden xl:flex items-center gap-6">
@@ -40,10 +40,7 @@ export default function NavBar() {
               Projects & Patents
             </Link>
 
-            <Link
-              href="people"
-              className="text-sm font-medium hover:underline"
-            >
+            <Link href="people" className="text-sm font-medium hover:underline">
               People
             </Link>
             <Link
@@ -57,6 +54,12 @@ export default function NavBar() {
               className="text-sm font-medium hover:underline"
             >
               Research
+            </Link>
+            <Link
+              href="vacancy"
+              className="text-sm font-medium hover:underline"
+            >
+              Vacancy
             </Link>
             <Link
               href="contact"
@@ -76,10 +79,10 @@ export default function NavBar() {
         </div>
       </div>
 
-      <div className={` h-16 px-6 md:px-8  lg:hidden  ${menu ? 'py-0' : ''} `}>
+      <div className={` h-16 px-6 md:px-8  lg:hidden  ${menu ? "py-0" : ""} `}>
         <div className="container mx-auto flex h-16 items-center justify-between   ">
           <div className="flex select-none items-center gap-[50px] text-[16px]">
-            <Link href={'/'} className="flex items-center gap-2">
+            <Link href={"/"} className="flex items-center gap-2">
               <h1 className="text-xl font-bold">L. L. A. M. P.</h1>
             </Link>
           </div>
@@ -131,7 +134,7 @@ export default function NavBar() {
               >
                 Gallery
               </Link>
-              
+
               <Link
                 onClick={toggleMenu}
                 href="problems-addressed"
@@ -140,6 +143,13 @@ export default function NavBar() {
                 Research Areas
               </Link>
 
+              <Link
+                onClick={toggleMenu}
+                href="vacancy"
+                className="text-lg font-medium hover:underline"
+              >
+                Vacancy
+              </Link>
               <Link
                 onClick={toggleMenu}
                 href="contact"

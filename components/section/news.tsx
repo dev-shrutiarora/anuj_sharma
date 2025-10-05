@@ -34,10 +34,20 @@ export default function HomePage() {
       title: 'Congratulations Barakha for successfully defending your PhD Work',
       content:
         "Barakha successfully defended PhD work on topic 'Harnessing Light and Mechanochemistry for Green and Sustainable Sulfonylation Reactions' ",
+      lastUpdate: '2025-10-06',
+    },
+
+     {
+      id: 4,
+      title: 'Congratulations Jaya!!!! A recent one from our laborartory in ACS cataysis',
+      content:
+        "Photoinduced iron-catalysed Aryl ester synthesis via C(sp2)-O cross-coupling of carboxylic acids with anisoles ",
       lastUpdate: '2025-08-04',
     },
+
+
     {
-      id: 4,
+      id: 5,
       title: 'And Here comes another one for our lab. Congratulations Ajay!!!',
       content:
         'Published in J. Org. Chem., "Deoxygenetive Route to Alkynylation of Heterocyclic N-Oxides under Ball Milling"',
@@ -45,7 +55,7 @@ export default function HomePage() {
     },
 
     {
-      id: 5,
+      id: 6,
       title:
         'Our perspective on the use of the thianthrenium salts under light mediated protocols...',
       content:
@@ -53,7 +63,7 @@ export default function HomePage() {
       lastUpdate: '2025-05-14',
     },
     {
-      id: 6,
+      id: 7,
       title:
         'Prof Anuj appointed as an associate editer of Molecular Diversity',
       content:

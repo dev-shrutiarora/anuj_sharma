@@ -206,8 +206,8 @@ const profiles: Profile[] = [
     name: 'Anuj Kumar ',
     role: 'Currently a D S Kothari Post Doc in BHU',
     department: 'Viva Voice held on 22.08.2017',
-    bio: 'Thesis title: Synthesis of N, S-heterocycles via multicomponent approach.',
-    image: '/people1/av.png?height=400&width=300',
+    bio: '/Thesis title: Synthesis of N, S-heterocycles via multicomponent approach.',
+    image: 'people1/av.png?height=400&width=300',
     category: 'alumni',
   },
 
@@ -335,7 +335,7 @@ const profiles: Profile[] = [
     role: '',
     department: ' M.Tech, 2013',
     bio: 'Thesis title: In-silico studies of imidazo-azines as potent NTD inhibitor by multi-target screening approach',
-    image: '/people1/av.png?height=400&width=300',
+    image: 'people1/av.png?height=400&width=300',
     category: 'alumni',
   },
 

@@ -25,6 +25,23 @@ export default function Journal() {
       
 <li className="pl-2">
           <p className="text-sm sm:text-base">
+            Photoinduced Iron-Catalysed Aryl Ester Synthesis via C(sp2)-O Cross-Coupling of Carboxylic Acid with Anisoles, J. Tripathi, A. Sharma, ACS catal., 2025, 15, 17292-17300.
+
+            
+            
+            <a
+              href="https://doi.org/10.1021/acscatal.5c04512"
+              className="block text-blue-600 hover:underline mt-1"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              https://doi.org/10.1021/acscatal.5c04512
+            </a>
+          </p>
+        </li>
+
+<li className="pl-2">
+          <p className="text-sm sm:text-base">
              Deoxygenative Route to Alkynylation of Heterocyclic N-oxides under Ball Milling
 A Dhiya, M. Kaur, Manpreet and A. Sharma*, J. Org. Chem., 2025, 90, 11033−11042.
 

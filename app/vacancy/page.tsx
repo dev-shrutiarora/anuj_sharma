@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Page() {
   const deptUrl =
-    "https://iitr.ac.in/Departments/Chemistry%20Department/Home.html#";
+    "https://iitr.ac.in/Departments/Chemistry%20Department/Announcements/Join%20Us%20Job%20Offers.html";
   const formUrl =
     "https://docs.google.com/forms/d/e/1FAIpQLScW45ly0oDJoYu9MBO4HlUARzCA3Y92HrTeqfAx8pizV3TIkQ/viewform?embedded=true";
 

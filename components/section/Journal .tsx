@@ -22,6 +22,41 @@ export default function Journal() {
         </p>
       </div>
       <ol className="mt-8 list-decimal pl-6 space-y-6">
+
+        <li className="pl-2">
+          <p className="text-sm sm:text-base">
+             Photocatalyst-Free Decarboxylative Cross-Coupling of alpha-Keto Acids With Aryl Sulfinates for synthesis of S-Aryl Thioesters, H. Gupta, J. Tripathi, and A. Sharma*, Chem. Commun., 2025.
+
+            
+            
+            <a
+              href="https://doi.org/10.1021/acs.joc.5c00737"
+              className="block text-blue-600 hover:underline mt-1"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              https://doi.org/10.1039/D5CC050508
+            </a>
+          </p>
+        </li>
+
+        <li className="pl-2">
+          <p className="text-sm sm:text-base">
+             Deoxygenative Route to Alkynylation of Heterocyclic N-oxides under Ball Milling
+A Dhiya, M. Kaur, Manpreet and A. Sharma*, J. Org. Chem., 2025, 90, 11033−11042.
+
+            
+            
+            <a
+              href="https://doi.org/10.1021/acs.joc.5c00737"
+              className="block text-blue-600 hover:underline mt-1"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              https://doi.org/10.1021/acs.joc.5c00737
+            </a>
+          </p>
+        </li>
       
 <li className="pl-2">
           <p className="text-sm sm:text-base">

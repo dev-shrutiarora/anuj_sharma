@@ -44,16 +44,24 @@ export default function HomePage() {
         "Photoinduced iron-catalysed Aryl ester synthesis via C(sp2)-O cross-coupling of carboxylic acids with anisoles ",
       lastUpdate: '2025-10-04',
     },
- {
+
+    {
       id: 5,
+      title: 'Latest from our laboratory in ChemComm',
+      content:
+        "Photocatalyst-Free Decarboxylative Cross-Coupling of alpha-Keto Acids With Aryl Sulfinates for synthesis of S-Aryl Thioesters, H. Gupta, J. Tripathi, and A. Sharma*, Chem. Commun., 2025.",
+      lastUpdate: '2025-10-15',
+    },
+ {
+      id: 6,
       title: 'Congratulations Dr. Barakha!!!! Got Post Doc in the Jirgensons group at the Latvian Institute of Organic Synthesis, Riga, Latvia',
       content:
         "Development of greener synthetic pathways and catalytic strategies contributing to environmentally reasponsible pharmaceutical manufacturing in Europe ",
-      lastUpdate: '2025-10-06',
+      lastUpdate: '2025-10-15',
     },
 
     {
-      id: 6,
+      id: 7,
       title: 'And Here comes another one for our lab. Congratulations Ajay!!!',
       content:
         'Published in J. Org. Chem., "Deoxygenetive Route to Alkynylation of Heterocyclic N-Oxides under Ball Milling"',
@@ -61,7 +69,7 @@ export default function HomePage() {
     },
 
     {
-      id: 7,
+      id: 8,
       title:
         'Our perspective on the use of the thianthrenium salts under light mediated protocols...',
       content:
@@ -69,7 +77,7 @@ export default function HomePage() {
       lastUpdate: '2025-05-14',
     },
     {
-      id: 8,
+      id: 9,
       title:
         'Prof Anuj appointed as an associate editer of Molecular Diversity',
       content:

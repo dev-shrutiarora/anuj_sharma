@@ -125,17 +125,17 @@ export default function ProfessorGalleryPage() {
     },
 
      {
-      src: 'gallery1/p1.jpg',
+      src: '/gallery1/p1.jpg',
       alt: 'Field work',
       caption: 'Group photo',
     },
 {
-      src: 'gallery1/p20.jpg',
+      src: '/gallery1/p20.jpg',
       alt: 'Field work',
       caption: 'Group photo',
     },
     {
-      src: 'gallery1/p21.jpg',
+      src: '/gallery1/p21.jpg',
       alt: 'Field work',
       caption: 'Group photo',
     },

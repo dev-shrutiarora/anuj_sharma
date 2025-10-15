@@ -29,12 +29,12 @@ export default function page() {
             
             
             <a
-              href="https://doi.org/10.1021/acs.joc.5c00737"
+              href="https://doi.org/10.1039/D5CC05050B"
               className="block text-blue-600 hover:underline mt-1"
               target="_blank"
               rel="noopener noreferrer"
             >
-              https://doi.org/10.1039/D5CC050508
+              https://doi.org/10.1039/D5CC05050B
             </a>
           </p>
         </li>

@@ -44,9 +44,9 @@ export default nextConfig
 
 
 
+// hiii sweettyyy ..plzz dont forgot to add / infornt of images and remove / from menu navbar for vercel site
 
-
-
+//now it is working beautifully ........u did a great job ....
 
 
 

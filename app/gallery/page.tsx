@@ -4,6 +4,19 @@ export default function ProfessorGalleryPage() {
   // Replace these with your real image paths in /public or remote URLs
   const images = [
 
+     {
+      src: '/gallery1/p26.jpg',
+      alt: 'Collaboration for innovation',
+      caption: "Delivered a session at Force-IICS, Singapore, October 23-26 2025",
+    },
+
+
+    {
+      src: '/gallery1/p25.jpg',
+      alt: 'Collaboration for innovation',
+      caption: "Delivered a session at Force-IICS, Singapore, October 23-26 2025",
+    },
+
     {
       src: '/gallery1/p24.jpg',
       alt: 'Collaboration for innovation',

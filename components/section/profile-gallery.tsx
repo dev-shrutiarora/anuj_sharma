@@ -140,7 +140,7 @@ const profiles: Profile[] = [
     role: 'MHRD',
     department: '2025 - Present',
     bio: 'working on "Organic synthesis of biologically active molecules using visible-light Photoredox and Mechanochemistry"',
-    image: '/people1/av.png?height=400&width=300',
+    image: '/people1/p13.jpg?height=400&width=300',
     email: 'Omkar_pp@cy.iitr.ac.in',
     category: 'scholar',
   },

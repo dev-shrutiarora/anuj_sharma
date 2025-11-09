@@ -1,7 +1,7 @@
 //import type { NextConfig } from 'next'
 
 //const NextConfig: NextConfig = {
-  //output: 'export',
+ // output: 'export',
   //reactStrictMode: true,
   
 

@@ -7,31 +7,31 @@ export default function ProfessorGalleryPage() {
      {
       src: '/gallery1/p26.jpg',
       alt: 'Collaboration for innovation',
-      caption: "Delivered a session at Force-IICS, Singapore, October 23-26 2025",
+      caption: "Delivered a lecture at Force-IICS, Singapore, October 23-26 2025",
     },
 
 
     {
       src: '/gallery1/p25.jpg',
       alt: 'Collaboration for innovation',
-      caption: "Delivered a session at Force-IICS, Singapore, October 23-26 2025",
+      caption: "Delivered a lecture at Force-IICS, Singapore, October 23-26 2025",
     },
 
     {
       src: '/gallery1/p24.jpg',
       alt: 'Collaboration for innovation',
-      caption: "Session on 'Unlocking Research and Funding Opportunities' GSFC University",
+      caption: "Mentored a session on techniques in organic synthesis, GSFC University",
     },
 
     {
       src: '/gallery1/p23.jpg',
       alt: 'Collaboration for innovation',
-      caption: "Session on 'Unlocking Research and Funding Opportunities' GSFC University",
+      caption: "Mentored a session on techniques in organic synthesis, GSFC University",
     },
     {
       src: '/gallery1/p22.jpg',
       alt: 'Collaboration for innovation',
-      caption: "Session on 'Unlocking Research and Funding Opportunities' GSFC University",
+      caption: "Mentored a session on techniques in organic synthesis, GSFC University",
     },
     {
       src: '/gallery1/p19.jpg',

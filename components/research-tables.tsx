@@ -40,75 +40,85 @@ function ResearchTable({ title, columns, data }: ResearchTableProps) {
 // Table data as constants
 const projectInvestigatorColumns = ['S.No', 'Title', 'Patent No.', 'Inventors'];
 const projectInvestigatorData = [
+ 
   [
     '1.',
+    'Methods for synthesizing c-3 substituted quinoxalin-2 (1H)-one compounds',
+    'Indian Patent Application No-202311081034',
+    'Prof. Anuj Sharma, Nihal Singh',
+  ],
+ 
+ 
+ 
+  [
+    '2.',
     'The Preparation of β-Keto Sulfone',
     'Indian Patent Application No-202411058425',
     'Prof. Anuj Sharma, Barakha Sexena',
   ],
   [
-    '2.',
+    '3.',
     'A Process of Photoacid-Assisted Esterification of Carboxylic Acids',
     'Indian Patent Application No-202311075970',
     'Prof. Anuj Sharma, Jaya Tripathi',
   ],
 
   [
-    '3.',
+    '4.',
     'Method for synthesizing C-3 substituted Quinoxalin-2(1H)-one compounds',
     'Indian Patent Application No-202311081034',
     'Prof. Anuj Sharma, N. Sharma',
   ],
   [
-    '4.',
+    '5.',
     'Catalyst Free Method for C-2Alkylattion in Heteroarene-N-Oxide Using Katritzky salts',
     'Indian Patent No- 534656',
     'Prof. Anuj Sharma, N. Singh, S. Sharma',
   ],
 
   [
-    '5.',
+    '6.',
     'A Microwave Induced Process for the Preparation of Substituted 4-Vinylphenols (Technology transferred to Industry.) ',
     'US Patent No.06989467',
     'AK Sinha, BP Joshi, A. Sharma',
   ],
   [
-    '6.',
+    '7.',
     'A Microwave Induced One Pot Process for the Preparation of Arylethenes  ',
     'US Patent No. US7759527B2',
     'AK Sinha, A Sharma, V Kumar',
   ],
 
   [
-    '7.',
+    '8.',
     'Single Step Green Process for the Preparation of Substituted Cinnamic Esters with trans-Selectivity',
     'US Patent No.20080045742',
     ' AK Sinha, A Sharma, A Swaroop, V Kumar',
   ],
 
   [
-    '8.',
+    '9.',
     'A Single Step Microwave Induced Process for the Preparation Of Substituted Stilbenes and its Analogs',
     'US Patent Application No.20070276172',
     'AK Sinha, A Sharma, V Kumar',
   ],
 
   [
-    '9.',
+    '10.',
     'A Microwave Induced Process for the Chemoselective Reduction of Olefinic Bond of α,β-Unsaturated Carbonyl Compounds.',
     'Filed No.0189 NF 2005',
     'A Sharma, V Kumar,AK Sinha',
   ],
 
   [
-    '10.',
+    '11.',
     'Microwave Induced Green Process for Decarboxylation of Substituted Cinnamic ',
     'Filed in USA/India (846 Del/2006)',
     'AK Sinha, V Kumar, A  Sharma',
   ],
 
   [
-    '11.',
+    '12.',
     'A process for isolation of vanillin and other phenolic compounds from Vanilla Beans',
     'filed in USA/India, ( C.S.I.R. No.  0107NF2006)',
     ' by AK Sinha, UK Sharma, A Sharma',

@@ -4,7 +4,28 @@ export default function ProfessorGalleryPage() {
   // Replace these with your real image paths in /public or remote URLs
   const images = [
 
+  
+    {
+      src: '/gallery1/p29.jpg',
+      alt: 'Collaboration for innovation',
+      caption: "Delievered talk at 91st INSA AGM meeting FCS 2025, held at Delhi university during 2-3 Dec, 2025"
+    },
+  
+    {
+      src: '/gallery1/p28.jpg',
+      alt: 'Collaboration for innovation',
+      caption: "Delievered talk at 91st INSA AGM meeting FCS 2025, held at Delhi university during 2-3 Dec, 2025",
+    },
+
+
+
      {
+      src: '/gallery1/p27.jpg',
+      alt: 'Collaboration for innovation',
+      caption: "Congratulations to Jaya for Best poster award at 91st INSA AGM meeting FCS 2025, held at Delhi university during 2-3 Dec, 2025",
+    },
+
+    {
       src: '/gallery1/p26.jpg',
       alt: 'Collaboration for innovation',
       caption: "Delivered a lecture at Force-IICS, Singapore, October 23-26 2025",

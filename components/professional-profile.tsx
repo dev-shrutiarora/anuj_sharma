@@ -276,6 +276,18 @@ export default function ProfessionalProfile() {
               </ul>
               <strong>GUEST LECTURES</strong>
               <ul className="list-disc pl-6 mt-2">
+                
+                <li>
+                  {' '}
+                  At 91st INSA AGM meeting FCS 2025, held at Delhi university,on Dec 2-3, 2025
+                </li>
+                <li>
+                  {' '}
+                  At FORCE-IICS 2025 in Singapore, on topic &quot; Decarboxylative strategies for ester synthesis from carboxylic acids &quot; during oct 23-26, 2025
+                </li>
+                
+                
+                
                 <li>
                   {' '}
                   At Central university Jammu, on topic &quot;Pursuit of

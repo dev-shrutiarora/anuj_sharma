@@ -37,7 +37,7 @@ export default function NavBar() {
             </Link>
 
 
-            <Link href="/about" className="text-sm font-medium hover:underline">
+            <Link href="/about"className="text-sm font-medium hover:underline">
               About
             </Link>
             <Link

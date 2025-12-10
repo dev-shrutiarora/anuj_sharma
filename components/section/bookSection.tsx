@@ -9,6 +9,7 @@ const BOOKS_DATA = [
     id: 1,
     image: '/book/book6.jpg',
     alt: 'Multi-Target Drug Design Book',
+    
     title:
       'Multi-Target Drug Design Using Chem-Bioinformatic Approaches. Methods in Pharmacology',
     description:

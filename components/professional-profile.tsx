@@ -279,7 +279,7 @@ export default function ProfessionalProfile() {
                 
                 <li>
                   {' '}
-                  At 91st INSA AGM meeting FCS 2025, held at Delhi university,on Dec 2-3, 2025
+                  At 91st INSA AGM meeting FCS 2025, held at Delhi university, on Dec 2-3 2025
                 </li>
                 <li>
                   {' '}

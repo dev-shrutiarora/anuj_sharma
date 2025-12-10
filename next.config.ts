@@ -1,7 +1,7 @@
 //import type { NextConfig } from 'next'
 
 //const NextConfig: NextConfig = {
- // output: 'export',
+  //output: 'export',
   //reactStrictMode: true,
   
 
@@ -37,7 +37,7 @@ const nextConfig: NextConfig = {
         hostname: 'docs.google.com',
       },
     ],
-  },
+ },
 }
 
 export default nextConfig

@@ -12,9 +12,9 @@
    //ignoreBuildErrors: false,
     //},
 
-  //compiler: {
-    // styledComponents: true,
-    //},
+ // compiler: {
+   //  styledComponents: true,
+  //  },
  //basePath: '/as_lab',
 //assetPrefix: '/as_lab/',
 
@@ -27,7 +27,7 @@
 
 //export default NextConfig;
 
- import type { NextConfig } from 'next'
+import type { NextConfig } from 'next'
 
 
 const nextConfig: NextConfig = {

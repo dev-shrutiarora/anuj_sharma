@@ -47,7 +47,7 @@ export default function NavBar() {
               Projects & Patents
             </Link>
 
-            <Link href="people" className="text-sm font-medium hover:underline">
+            <Link href="/people" className="text-sm font-medium hover:underline">
               People
             </Link>
             <Link

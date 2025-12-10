@@ -10,7 +10,7 @@ export default function page() {
           <div className="grid gap-10">
             <div className="grid gap-6">
               <Image
-                src="hero4.jpg"
+                src="/hero4.jpg"
                 alt="Prof. Anuj Sharma"
                 width={1300}
                 height={1300}

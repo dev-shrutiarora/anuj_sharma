@@ -218,7 +218,7 @@ export default function ProfessionalProfile() {
                   At NIH Hamirpur, on topic &quot;1,4 Cycloadditions: A Gateway
                   to Diversified Heterocyclic scaffolds of Pharmaceutical
                   Interventions&quot; in a National Conference on “Analytical
-                  Chemistry and Spectroscopy (ACMS-16)” dated 13th Oct, 2016.
+                  Chemistry and Spectroscopy (ACMS-16)” dated 13th Oct, 2016
                 </li>
                 <li>
                   {' '}

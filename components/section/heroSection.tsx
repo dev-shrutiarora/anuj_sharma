@@ -15,6 +15,9 @@ export default function HeroSection() {
     
   ];
 
+
+
+ 
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrentSlide((prev) => (prev === slides.length - 1 ? 0 : prev + 1));

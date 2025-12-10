@@ -28,7 +28,7 @@
 //export default NextConfig;
 
  import type { NextConfig } from 'next'
- 
+
 
 const nextConfig: NextConfig = {
   reactStrictMode: true,
@@ -37,12 +37,15 @@ const nextConfig: NextConfig = {
       {
         protocol: 'https',
         hostname: 'docs.google.com',
-      },
+     },
     ],
  },
 }
 
 export default nextConfig;
+
+
+
 
 
 

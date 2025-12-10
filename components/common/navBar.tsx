@@ -37,39 +37,39 @@ export default function NavBar() {
             </Link>
 
 
-            <Link href="about"className="text-sm font-medium hover:underline">
+            <Link href="/about"className="text-sm font-medium hover:underline">
               About
             </Link>
             <Link
-              href="projects"
+              href="/projects"
               className="text-sm font-medium hover:underline"
             >
               Projects & Patents
             </Link>
 
-            <Link href="people" className="text-sm font-medium hover:underline">
+            <Link href="/people" className="text-sm font-medium hover:underline">
               People
             </Link>
             <Link
-              href="gallery"
+              href="/gallery"
               className="text-sm font-medium hover:underline"
             >
               Gallery
             </Link>
             <Link
-              href="problems-addressed"
+              href="/problems-addressed"
               className="text-sm font-medium hover:underline"
             >
               Research
             </Link>
             <Link
-              href="vacancy"
+              href="/vacancy"
               className="text-sm font-medium hover:underline"
             >
               Vacancy
             </Link>
             <Link
-              href="contact"
+              href="/contact"
               className="text-sm font-medium hover:underline"
             >
               Contact
@@ -120,14 +120,14 @@ export default function NavBar() {
 
               <Link
                 onClick={toggleMenu}
-                href="about"
+                href="/about"
                 className="text-lg font-medium hover:underline"
               >
                 About
               </Link>
               <Link
                 onClick={toggleMenu}
-                href="projects"
+                href="/projects"
                 className="text-lg font-medium hover:underline"
               >
                 Projects & Patents
@@ -135,14 +135,14 @@ export default function NavBar() {
 
               <Link
                 onClick={toggleMenu}
-                href="people"
+                href="/people"
                 className="text-lg font-medium hover:underline"
               >
                 People
               </Link>
               <Link
                 onClick={toggleMenu}
-                href="gallery"
+                href="/gallery"
                 className="text-lg font-medium hover:underline"
               >
                 Gallery
@@ -150,7 +150,7 @@ export default function NavBar() {
 
               <Link
                 onClick={toggleMenu}
-                href="problems-addressed"
+                href="/problems-addressed"
                 className="text-lg font-medium hover:underline"
               >
                 Research Areas
@@ -158,14 +158,14 @@ export default function NavBar() {
 
               <Link
                 onClick={toggleMenu}
-                href="vacancy"
+                href="/vacancy"
                 className="text-lg font-medium hover:underline"
               >
                 Vacancy
               </Link>
               <Link
                 onClick={toggleMenu}
-                href="contact"
+                href="/contact"
                 className="text-lg font-medium hover:underline"
               >
                 Contact

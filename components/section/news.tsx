@@ -37,7 +37,7 @@ export default function HomePage() {
     },
      {
       id: 4,
-      title: 'Heartiest congratulations to Prof Anuj Sharma on resuming his role as Head of the Department of Chemistry at IIT Roorkee',
+      title: 'Heartiest congratulations to Prof Anuj Sharma on resuming his role as Head of the Department',
       content:
         '',
       lastUpdate: '2026-01-17',

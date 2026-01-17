@@ -25,6 +25,21 @@ export default function Journal() {
 
       <li className="pl-2">
           <p className="text-sm sm:text-base">
+             Photomediated solvent-switched direct C-H arylation vs oxyalkylation of azauracils using unactivated aryl iodides, R. Kumar, M. Kaur, and A. Sharma*, J. Org. Chem., 2026.
+
+            <a
+              href="https://doi.org/10.1021/acs.joc.5c02086"
+              className="block text-blue-600 hover:underline mt-1"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              https://doi.org/10.1021/acs.joc.5c02086
+            </a>
+          </p>
+        </li>
+     
+      <li className="pl-2">
+          <p className="text-sm sm:text-base">
              Photocatalyst-free decarboxylative cross-coupling of α-keto acids with aryl sulfinates for the synthesis of S-aryl thioesters, H. Gupta, J. Tripathi and A. Sharma*, Chem. Commun., 2025.
 
             <a
@@ -202,37 +217,10 @@ export default function Journal() {
 
           </p>
         </li>
-        <li className="pl-2">
-          <p className="text-sm sm:text-base">
-            	Visible light-induced bromine radical enhanced hydrogen atom transfer (HAT) reactions in organic synthesis, B. Saxena, R. I. Patel, and A. Sharma*, RSC Sustain., 2024, 2, 2169-2189.
-          <a
-              href="https://doi.org/10.1039/D4SU00214H"
-              className="block text-blue-600 hover:underline mt-1"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              https://doi.org/10.1039/D4SU00214H
-            </a>
-
-          </p>
-        </li>
+       
 
 
-<li className="pl-2">
-          <p className="text-sm sm:text-base">
-            		Visible light promoted synthesis of allenes, J. Singh, B. Saxena and A. Sharma*, Catal. Sci. Technol., 2024, 14, 5143-5160.
 
-               <a
-              href="https://doi.org/10.1039/D4CY00361F"
-              className="block text-blue-600 hover:underline mt-1"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              https://doi.org/10.1039/D4CY00361F
-            </a>
-
-          </p>
-        </li>
         
       
 

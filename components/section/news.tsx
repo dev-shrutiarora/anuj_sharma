@@ -35,10 +35,25 @@ export default function HomePage() {
         'Presnted poster during 91st INSA AGM meeting FCS 2025, held at Delhi University',
       lastUpdate: '2025-12-03',
     },
+     {
+      id: 4,
+      title: 'Heartiest congratulations to Prof Anuj Sharma on resuming his role as Head of the Deaprtment',
+      content:
+        '',
+      lastUpdate: '2026-01-17',
+    },
+
+    {
+      id: 5,
+      title: 'A warm welcome to Amrita Sharma, Deepa yadav, Aman Dhutwani and Rohit as new members of our research group',
+      content:
+        '',
+      lastUpdate: '2026-01-17',
+    },
 
 
     {
-      id: 4,
+      id: 6,
       title: 'Congratulations Barakha for successfully defending your PhD Work',
       content:
         "Barakha successfully defended PhD work on topic 'Harnessing Light and Mechanochemistry for Green and Sustainable Sulfonylation Reactions' ",
@@ -46,7 +61,7 @@ export default function HomePage() {
     },
 
      {
-      id: 5,
+      id: 7,
       title: 'Congratulations Jaya!!!! A recent one from our laborartory in ACS cataysis',
       content:
         "Photoinduced iron-catalysed Aryl ester synthesis via C(sp2)-O cross-coupling of carboxylic acids with anisoles ",
@@ -54,14 +69,14 @@ export default function HomePage() {
     },
 
     {
-      id: 6,
+      id: 8,
       title: 'Latest from our laboratory in ChemComm',
       content:
         "Photocatalyst-Free Decarboxylative Cross-Coupling of alpha-Keto Acids With Aryl Sulfinates for synthesis of S-Aryl Thioesters, H. Gupta, J. Tripathi, and A. Sharma*, Chem. Commun., 2025.",
       lastUpdate: '2025-10-15',
     },
  {
-      id: 7,
+      id: 9,
       title: 'Congratulations Dr. Barakha!!!! Got Post Doc in the Jirgensons group at the Latvian Institute of Organic Synthesis, Riga, Latvia',
       content:
         "Development of greener synthetic pathways and catalytic strategies contributing to environmentally reasponsible pharmaceutical manufacturing in Europe ",
@@ -69,7 +84,7 @@ export default function HomePage() {
     },
 
     {
-      id: 8,
+      id: 10,
       title: 'And Here comes another one for our lab. Congratulations Ajay!!!',
       content:
         'Published in J. Org. Chem., "Deoxygenetive Route to Alkynylation of Heterocyclic N-Oxides under Ball Milling"',
@@ -77,7 +92,7 @@ export default function HomePage() {
     },
 
     {
-      id: 9,
+      id: 11,
       title:
         'Our perspective on the use of the thianthrenium salts under light mediated protocols...',
       content:
@@ -85,7 +100,7 @@ export default function HomePage() {
       lastUpdate: '2025-05-14',
     },
     {
-      id: 10,
+      id: 12,
       title:
         'Prof Anuj appointed as an associate editer of Molecular Diversity',
       content:

@@ -22,6 +22,22 @@ export default function page() {
       </div>
       <ol className="mt-8 list-decimal pl-6 space-y-6">
 
+       <li className="pl-2">
+          <p className="text-sm sm:text-base">
+             Photomediated solvent-switched direct C-H arylation vs oxyalkylation of azauracils using unactivated aryl iodides, R. Kumar, M. Kaur, and A. Sharma*, J. Org. Chem., 2026.
+
+            <a
+              href="https://doi.org/10.1021/acs.joc.5c02086"
+              className="block text-blue-600 hover:underline mt-1"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              https://doi.org/10.1021/acs.joc.5c02086
+            </a>
+          </p>
+        </li>
+
+
 <li className="pl-2">
           <p className="text-sm sm:text-base">
              Photocatalyst-free decarboxylative cross-coupling of α-keto acids with aryl sulfinates for the synthesis of S-aryl thioesters, H. Gupta, J. Tripathi and A. Sharma*, Chem. Commun., 2025.

@@ -86,7 +86,33 @@ const awardedPhdData = [
 
 const ongoingPhdData = [
  
- 
+ {
+    name: 'Amrita Sharma',
+    title: '',
+    year: ' 2026- Present',
+    status: 'Ongoing',
+  },
+{
+    name: 'Deepa yadav',
+    title: '',
+    year: ' 2026- Present',
+    status: 'Ongoing',
+  },
+
+  {
+    name: 'Aman Dhutwani',
+    title: '',
+    year: ' 2026- Present',
+    status: 'Ongoing',
+  },
+
+  {
+    name: 'Rohit',
+    title: '',
+    year: ' 2026- Present',
+    status: 'Ongoing',
+  },
+
   {
     name: 'Omkar Patil',
     title: 'Organic synthesis of biologically active molecules using visible-light Photoredox and Mechanochemistry',

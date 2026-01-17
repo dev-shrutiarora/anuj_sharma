@@ -460,6 +460,10 @@ export default function ProfessionalProfile() {
           <CardContent className="space-y-4 pt-6">
             <ul className="list-disc pl-6 space-y-3">
               <li>
+                Head of Department, Chemistry, Indian Institute of Technology, Roorkee
+                (January 2026 - till date)
+              </li>
+              <li>
                 Member, Institute of Human Ethics Committee (IHEC), Indian Institute of Technology, Roorkee
                 (March 2025 - till date)
               </li>

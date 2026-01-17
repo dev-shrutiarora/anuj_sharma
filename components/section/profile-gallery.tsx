@@ -144,8 +144,53 @@ const profiles: Profile[] = [
     email: 'Omkar_pp@cy.iitr.ac.in',
     category: 'scholar',
   },
+  
   {
     id: '13',
+    name: 'Amrita Sharma',
+    role: 'UGC-JRF',
+    department: '2026 - Present',
+    bio: 'working on ',
+    image: '/people1/p14.jpg?height=400&width=300',
+    email: 'amrita_s@cy.iitr.ac.in',
+    category: 'scholar',
+  },  
+  
+  {
+    id: '14',
+    name: 'Deepa yadav',
+    role: 'CSIR-JRF',
+    department: '2026 - Present',
+    bio: 'working on ',
+    image: '/people1/p15.jpg?height=400&width=300',
+    email: 'deepa_y@cy.iitr.ac.in',
+    category: 'scholar',
+  },  
+  
+  {
+    id: '15',
+    name: 'Aman Dhutwani',
+    role: 'UGC-JRF',
+    department: '2026 - Present',
+    bio: 'working on ',
+    image: '/people1/p16.jpg?height=400&width=300',
+    email: 'aman_d1@cy.iitr.ac.in',
+    category: 'scholar',
+  },  
+  
+
+  {
+    id: '16',
+    name: 'Rohit',
+    role: 'CSIR-JRF',
+    department: '2026 - Present',
+    bio: 'working on ',
+    image: '/people1/p17.jpg?height=400&width=300',
+    email: 'rohit2@cy.iitr.ac.in',
+    category: 'scholar',
+  },  
+  {
+    id: '17',
     name: 'Harshita Gupta',
     role: 'Part-Time',
     department: '2021 - Present',
@@ -156,7 +201,7 @@ const profiles: Profile[] = [
   },
 
   {
-    id: '14',
+    id: '18',
     name: 'Amar P. Pandey',
     role: 'Part-Time',
     department: '..... - Present',
@@ -166,7 +211,7 @@ const profiles: Profile[] = [
   },
 
   {
-    id: '15',
+    id: '19',
     name: 'Sehdev Kumar',
     role: 'Part-Time',
     department: '..... - Present',
@@ -175,7 +220,7 @@ const profiles: Profile[] = [
     category: 'scholar',
   },
   {
-    id: '16',
+    id: '20',
     name: 'Manoj Kumar',
     role: 'currently a post-Doc in Canada',
     department: 'Viva Voice held on 04.09.2015',
@@ -184,7 +229,7 @@ const profiles: Profile[] = [
     category: 'alumni',
   },
   {
-    id: '17',
+    id: '21',
     name: 'Debasmita Saha',
     role: 'Currently a post-Doc in the University of Arkansas, USA',
     department: 'Viva Voice held on 09.06.2017',
@@ -193,7 +238,7 @@ const profiles: Profile[] = [
     category: 'alumni',
   },
   {
-    id: '18',
+    id: '22',
     name: 'Preeti Wadhwa ',
     role: 'Currently a D S Kothari Post Doc in BHU',
     department: 'Viva Voice held on 09.06.2017',
@@ -202,7 +247,7 @@ const profiles: Profile[] = [
     category: 'alumni',
   },
   {
-    id: '19',
+    id: '23',
     name: 'Anuj Kumar ',
     role: 'Currently a D S Kothari Post Doc in BHU',
     department: 'Viva Voice held on 22.08.2017',
@@ -212,7 +257,7 @@ const profiles: Profile[] = [
   },
 
   {
-    id: '20',
+    id: '24',
     name: 'Shaily ',
     role: 'Assistant Professor in a Government College',
     department: 'Viva Voice held on 30.01.2018',
@@ -222,7 +267,7 @@ const profiles: Profile[] = [
   },
 
   {
-    id: '21',
+    id: '25',
     name: 'Abdulkadir Shube Hussen (Ethiopian exchange student) ',
     role: '',
     department: 'Viva Voice held on 13.09.2019',
@@ -232,7 +277,7 @@ const profiles: Profile[] = [
   },
 
   {
-    id: '22',
+    id: '26',
     name: 'Dr. Tanpreet',
     role: 'Post-Doc',
     department: '2015-2018',
@@ -242,7 +287,7 @@ const profiles: Profile[] = [
   },
 
   {
-    id: '23',
+    id: '27',
     name: 'Sourav Bagchi ',
     role: '',
     department: 'Viva Voice held on 12.09.2019',
@@ -252,7 +297,7 @@ const profiles: Profile[] = [
   },
 
   {
-    id: '24',
+    id: '28',
     name: 'Dr. Ankita garg',
     role: 'Post-Doc',
     department: '2016-2017',
@@ -261,7 +306,7 @@ const profiles: Profile[] = [
     category: 'alumni',
   },
   {
-    id: '25',
+    id: '29',
     name: ' Aparna Monga',
     role: '',
     department: 'Viva Voice held on 23.07.2020',
@@ -271,7 +316,7 @@ const profiles: Profile[] = [
   },
 
   {
-    id: '26',
+    id: '30',
     name: 'Dr. Prashant Gehtori',
     role: 'Post-Doc',
     department: '2017-2018',
@@ -281,7 +326,7 @@ const profiles: Profile[] = [
   },
 
   {
-    id: '27',
+    id: '31',
     name: 'Dr. Shivani Sharma',
     role: 'Post-Doc',
     department: '2019-2021',
@@ -291,7 +336,7 @@ const profiles: Profile[] = [
   },
 
   {
-    id: '28',
+    id: '32',
     name: 'Dr. Manpreet Kaur',
     role: 'Post-Doc',
     department: '2023-2024',
@@ -300,7 +345,7 @@ const profiles: Profile[] = [
     category: 'alumni',
   },
   {
-    id: '29',
+    id: '33',
     name: ' Nihal Singh',
     role: '',
     department: 'Viva Voice held on 07.03.2025',
@@ -310,7 +355,7 @@ const profiles: Profile[] = [
   },
 
   {
-    id: '30',
+    id: '34',
     name: ' Anoop Sharma',
     role: '',
     department: 'Viva Voice held on 18.03.2025',
@@ -320,7 +365,7 @@ const profiles: Profile[] = [
   },
 
   {
-    id: '31',
+    id: '35',
     name: 'Anuradha Dagar ',
     role: '',
     department: 'M.Tech, 2012',
@@ -330,7 +375,7 @@ const profiles: Profile[] = [
   },
 
   {
-    id: '32',
+    id: '36',
     name: 'Barnita Makhal ',
     role: '',
     department: ' M.Tech, 2013',
@@ -340,7 +385,7 @@ const profiles: Profile[] = [
   },
 
   {
-    id: '33',
+    id: '37',
     name: ' Sourav Bagchi',
     role: '',
     department: ' M.Tech, 2014',
@@ -349,7 +394,7 @@ const profiles: Profile[] = [
     category: 'alumni',
   },
   {
-    id: '34',
+    id: '38',
     name: 'Pritam Surkar ',
     role: '',
     department: ' M.Tech, 2015',
@@ -358,7 +403,7 @@ const profiles: Profile[] = [
     category: 'alumni',
   },
   {
-    id: '35',
+    id: '39',
     name: 'Ravi Kant Yadav',
     role: '',
     department: ' M.Tech, 2016',
@@ -367,7 +412,7 @@ const profiles: Profile[] = [
     category: 'alumni',
   },
   {
-    id: '36',
+    id: '40',
     name: ' Raj Kumar Soni',
     role: '',
     department: ' M.Tech, 2020',
@@ -376,7 +421,7 @@ const profiles: Profile[] = [
     category: 'alumni',
   },
   {
-    id: '37',
+    id: '41',
     name: ' Pritam Kadam',
     role: '',
     department: ' M.Sc., 2012, ',
@@ -385,7 +430,7 @@ const profiles: Profile[] = [
     category: 'alumni',
   },
   {
-    id: '38',
+    id: '42',
     name: 'Bhaskar Sen',
     role: '',
     department: ' M.Sc., 2013 ',
@@ -394,7 +439,7 @@ const profiles: Profile[] = [
     category: 'alumni',
   },
   {
-    id: '39',
+    id: '43',
     name: ' Tapas Adak',
     role: '',
     department: ' M.Sc., 2014 ',
@@ -403,7 +448,7 @@ const profiles: Profile[] = [
     category: 'alumni',
   },
   {
-    id: '40',
+    id: '44',
     name: 'Ram Nayan Gautam ',
     role: '',
     department: ' M.Sc., 2014 ',
@@ -412,7 +457,7 @@ const profiles: Profile[] = [
     category: 'alumni',
   },
   {
-    id: '41',
+    id: '45',
     name: ' Ananya',
     role: '',
     department: ' M.Sc., 2016',
@@ -421,7 +466,7 @@ const profiles: Profile[] = [
     category: 'alumni',
   },
   {
-    id: '42',
+    id: '46',
     name: ' Anupreet Kharbanda',
     role: '',
     department: ' M.Sc., 2017 ',
@@ -430,7 +475,7 @@ const profiles: Profile[] = [
     category: 'alumni',
   },
   {
-    id: '43',
+    id: '47',
     name: 'Parul Rathee ',
     role: '',
     department: ' M.Sc., 2018',
@@ -439,7 +484,7 @@ const profiles: Profile[] = [
     category: 'alumni',
   },
   {
-    id: '44',
+    id: '48',
     name: 'Deeksha ',
     role: '',
     department: ' M.Sc., 2019',
@@ -448,7 +493,7 @@ const profiles: Profile[] = [
     category: 'alumni',
   },
   {
-    id: '45',
+    id: '49',
     name: ' Rahul',
     role: '',
     department: ' M.Sc., 2019',
@@ -457,7 +502,7 @@ const profiles: Profile[] = [
     category: 'alumni',
   },
   {
-    id: '46',
+    id: '50',
     name: ' Anushka Rastogi ',
     role: '',
     department: ' M.Sc., 2020',
@@ -466,7 +511,7 @@ const profiles: Profile[] = [
     category: 'alumni',
   },
   {
-    id: '47',
+    id: '51',
     name: 'Abhishek Singh ',
     role: '',
     department: ' M.Sc., 2020',
@@ -475,7 +520,7 @@ const profiles: Profile[] = [
     category: 'alumni',
   },
   {
-    id: '48',
+    id: '52',
     name: 'Abdul Basil ',
     role: '',
     department: ' M.Sc., 2020',
@@ -485,7 +530,7 @@ const profiles: Profile[] = [
   },
 
   {
-    id: '49',
+    id: '53',
     name: ' Payal Rani',
     role: '',
     department: ' M.Sc., 2021 ',
@@ -494,7 +539,7 @@ const profiles: Profile[] = [
     category: 'alumni',
   },
   {
-    id: '50',
+    id: '54',
     name: 'Archana Rai',
     role: '',
     department: ' M.Sc., 2021',
@@ -503,7 +548,7 @@ const profiles: Profile[] = [
     category: 'alumni',
   },
   {
-    id: '51',
+    id: '55',
     name: ' Manish Pundir',
     role: '',
     department: ' M.Sc., 2022',
@@ -512,7 +557,7 @@ const profiles: Profile[] = [
     category: 'alumni',
   },
   {
-    id: '52',
+    id: '56',
     name: ' Komal',
     role: '',
     department: ' M.Sc., 2022 ',
@@ -521,7 +566,7 @@ const profiles: Profile[] = [
     category: 'alumni',
   },
   {
-    id: '53',
+    id: '57',
     name: 'Naihnu Ram Meena ',
     role: '',
     department: ' M.Sc., 2022',
@@ -531,7 +576,7 @@ const profiles: Profile[] = [
   },
 
   {
-    id: '54',
+    id: '58',
     name: 'Shruti Sharma ',
     role: '',
     department: ' M.Sc., 2023',
@@ -541,7 +586,7 @@ const profiles: Profile[] = [
   },
 
   {
-    id: '55',
+    id: '59',
     name: 'Amisha Bansal ',
     role: '',
     department: ' M.Sc., 2023',
@@ -551,7 +596,7 @@ const profiles: Profile[] = [
   },
 
   {
-    id: '56',
+    id: '60',
     name: 'Pavan Yadav ',
     role: '',
     department: ' M.Sc., 2024',
@@ -561,7 +606,7 @@ const profiles: Profile[] = [
   },
 
   {
-    id: '57',
+    id: '61',
     name: 'Dr. Tanpreet',
     role: 'Post-Doc',
     department: '2015-2018',
